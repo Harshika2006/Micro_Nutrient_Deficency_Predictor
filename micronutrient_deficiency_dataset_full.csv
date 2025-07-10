@@ -1,0 +1,1501 @@
+Age,Gender,Deficiency,Symptom1,Symptom2,Symptom3
+37,Male,Vitamin C,Slow wound healing,Weak immunity,Bleeding gums
+67,Female,Sodium,Headache,Confusion,Low blood pressure
+29,Male,Copper,Bone abnormalities,Anemia,Low body temperature
+35,Female,Iodine,Weight gain,Cold sensitivity,Cold sensitivity
+52,Male,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+19,Female,Phosphorus,Bone pain,Weak muscles,Fatigue
+31,Female,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+63,Female,Zinc,Impaired taste,Slow wound healing,Weak immunity
+15,Female,Zinc,Impaired taste,Hair loss,Stunted growth
+38,Female,Vitamin A,Frequent infections,Night blindness,Night blindness
+41,Male,Vitamin E,Vision problems,Muscle weakness,Numbness
+36,Female,Vitamin E,Vision problems,Numbness,Numbness
+54,Male,Magnesium,Muscle twitches,Osteoporosis,Osteoporosis
+25,Female,Magnesium,Osteoporosis,Mental disorders,Irregular heartbeat
+38,Male,Zinc,Hair loss,Impaired taste,Slow wound healing
+23,Male,Vitamin E,Numbness,Vision problems,Vision problems
+10,Male,Potassium,Fatigue,Heart palpitations,Fatigue
+23,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+50,Female,Iodine,Weight gain,Neck swelling,Neck swelling
+24,Female,Calcium,Muscle cramps,Tooth decay,Muscle cramps
+58,Male,Copper,Low body temperature,Bone abnormalities,Bone abnormalities
+75,Male,Iron,Pale skin,Fatigue,Chest pain
+35,Male,Manganese,Mood changes,Poor bone growth,Mood changes
+51,Male,Copper,Bone abnormalities,Anemia,Anemia
+75,Male,Potassium,Fatigue,Muscle weakness,Muscle weakness
+28,Male,Zinc,Impaired taste,Hair loss,Hair loss
+24,Male,Vitamin K,Excessive bleeding,Easy bruising,Easy bruising
+52,Female,Vitamin E,Muscle weakness,Numbness,Vision problems
+61,Male,Zinc,Impaired taste,Slow wound healing,Weak immunity
+71,Male,Calcium,Tooth decay,Muscle cramps,Osteoporosis
+29,Female,Chromium,Fatigue,Weight loss,Poor glucose control
+67,Male,Folate (B9),Irritability,Headache,Fatigue
+48,Female,Zinc,Impaired taste,Slow wound healing,Impaired taste
+59,Female,Iodine,Neck swelling,Cold sensitivity,Weight gain
+41,Male,Sodium,Seizures,Headache,Headache
+55,Male,Folate (B9),Irritability,Headache,Irritability
+57,Male,Zinc,Hair loss,Impaired taste,Hair loss
+66,Female,Copper,Anemia,Low body temperature,Bone abnormalities
+23,Female,Iodine,Weight gain,Neck swelling,Cold sensitivity
+38,Female,Iron,Fatigue,Pale skin,Heavy menstruation
+20,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+42,Female,Zinc,Slow wound healing,Hair loss,Impaired taste
+51,Female,Phosphorus,Bone pain,Fatigue,Fatigue
+59,Male,Phosphorus,Weak muscles,Bone pain,Fatigue
+46,Female,Vitamin A,Night blindness,Frequent infections,Dry skin
+65,Female,Vitamin A,Frequent infections,Dry skin,Thinning hair
+45,Male,Manganese,Skin issues,Poor bone growth,Mood changes
+61,Male,Vitamin E,Vision problems,Numbness,Coordination issues
+66,Male,Sodium,Headache,Seizures,Low blood pressure
+53,Male,Selenium,Fatigue,Hair loss,Hair loss
+22,Male,Selenium,Fatigue,Hair loss,Fatigue
+64,Male,Manganese,Mood changes,Skin issues,Skin issues
+35,Female,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+29,Female,Vitamin E,Vision problems,Muscle weakness,Muscle weakness
+63,Male,Vitamin A,Dry skin,Night blindness,Thinning hair
+11,Female,Chromium,Fatigue,Weight loss,Fatigue
+23,Male,Potassium,Heart palpitations,Fatigue,Fatigue
+44,Female,Copper,Bone abnormalities,Low body temperature,Anemia
+14,Female,Manganese,Skin issues,Mood changes,Skin issues
+52,Female,Vitamin A,Dry skin,Night blindness,Dry skin
+18,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+38,Female,Iodine,Weight gain,Neck swelling,Weight gain
+49,Female,Copper,Anemia,Low body temperature,Anemia
+24,Female,Vitamin A,Frequent infections,Night blindness,Night blindness
+35,Female,Vitamin A,Dry skin,Night blindness,Night blindness
+57,Male,Vitamin C,Slow wound healing,Bleeding gums,Bleeding gums
+59,Male,Copper,Low body temperature,Anemia,Low body temperature
+37,Female,Folate (B9),Irritability,Headache,Birth defects (during pregnancy)
+70,Male,Phosphorus,Fatigue,Bone pain,Fatigue
+75,Male,Chromium,Poor glucose control,Weight loss,Mood swings
+64,Male,Vitamin D,Bone pain,Depression,Frequent fractures
+74,Female,Phosphorus,Weak muscles,Bone pain,Bone pain
+54,Female,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+23,Male,Vitamin K,Excessive bleeding,Easy bruising,Excessive bleeding
+14,Female,Vitamin C,Bleeding gums,Slow wound healing,Tooth loss
+52,Male,Calcium,Muscle cramps,Numbness,Numbness
+29,Male,Phosphorus,Bone pain,Fatigue,Weak muscles
+65,Male,Calcium,Muscle cramps,Numbness,Osteoporosis
+35,Male,Sodium,Headache,Confusion,Seizures
+12,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+27,Female,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+53,Male,Selenium,Hair loss,Fatigue,Fatigue
+47,Female,Vitamin D,Depression,Muscle weakness,Bone pain
+61,Female,Iron,Shortness of breath,Fatigue,Chest pain
+20,Female,Iodine,Cold sensitivity,Weight gain,Cold sensitivity
+66,Female,Sodium,Headache,Confusion,Low blood pressure
+36,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+25,Female,Vitamin K,Blood clot issues,Excessive bleeding,Excessive bleeding
+45,Female,Vitamin C,Slow wound healing,Weak immunity,Slow wound healing
+30,Male,Chromium,Poor glucose control,Fatigue,Poor glucose control
+64,Male,Iron,Pale skin,Fatigue,Chest pain
+15,Female,Potassium,Heart palpitations,Muscle weakness,Muscle weakness
+17,Male,Manganese,Poor bone growth,Mood changes,Skin issues
+33,Male,Zinc,Impaired taste,Hair loss,Slow wound healing
+17,Male,Vitamin C,Slow wound healing,Weak immunity,Tooth loss
+37,Female,Potassium,Fatigue,Muscle weakness,Fatigue
+31,Male,Vitamin A,Dry skin,Frequent infections,Night blindness
+47,Female,Chromium,Fatigue,Poor glucose control,Poor glucose control
+71,Female,Magnesium,Mental disorders,Osteoporosis,Irregular heartbeat
+37,Male,Phosphorus,Bone pain,Fatigue,Bone pain
+64,Male,Vitamin A,Night blindness,Frequent infections,Thinning hair
+65,Male,Sodium,Confusion,Seizures,Low blood pressure
+35,Male,Calcium,Numbness,Tooth decay,Numbness
+71,Male,Phosphorus,Weak muscles,Bone pain,Fatigue
+50,Male,Chromium,Poor glucose control,Fatigue,Poor glucose control
+46,Female,Phosphorus,Fatigue,Bone pain,Weak muscles
+59,Female,Selenium,Fatigue,Hair loss,Hair loss
+59,Female,Manganese,Skin issues,Mood changes,Mood changes
+75,Male,Iron,Shortness of breath,Fatigue,Chest pain
+45,Male,Iron,Shortness of breath,Pale skin,Fatigue
+38,Male,Zinc,Slow wound healing,Hair loss,Hair loss
+61,Female,Vitamin E,Numbness,Vision problems,Coordination issues
+66,Male,Iron,Fatigue,Pale skin,Chest pain
+55,Female,Vitamin C,Slow wound healing,Weak immunity,Weak immunity
+61,Male,Vitamin A,Frequent infections,Dry skin,Thinning hair
+12,Female,Folate (B9),Irritability,Headache,Birth defects (during pregnancy)
+16,Male,Iodine,Cold sensitivity,Neck swelling,Mental retardation
+64,Female,Phosphorus,Fatigue,Weak muscles,Fatigue
+26,Female,Chromium,Poor glucose control,Fatigue,Poor glucose control
+32,Female,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+27,Female,Calcium,Numbness,Tooth decay,Numbness
+52,Female,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+24,Male,Selenium,Mental fog,Fatigue,Fatigue
+69,Male,Vitamin E,Vision problems,Muscle weakness,Coordination issues
+40,Male,Copper,Anemia,Bone abnormalities,Low body temperature
+48,Female,Zinc,Impaired taste,Hair loss,Hair loss
+59,Male,Sodium,Seizures,Confusion,Confusion
+55,Male,Vitamin A,Night blindness,Dry skin,Frequent infections
+54,Male,Calcium,Tooth decay,Numbness,Numbness
+60,Male,Chromium,Fatigue,Poor glucose control,Mood swings
+56,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+57,Male,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+70,Female,Zinc,Impaired taste,Slow wound healing,Weak immunity
+15,Female,Potassium,Heart palpitations,Fatigue,Muscle weakness
+20,Male,Iron,Shortness of breath,Pale skin,Shortness of breath
+25,Male,Iodine,Neck swelling,Cold sensitivity,Cold sensitivity
+19,Male,Magnesium,Osteoporosis,Mental disorders,Muscle twitches
+50,Female,Iodine,Neck swelling,Weight gain,Cold sensitivity
+12,Female,Iodine,Neck swelling,Weight gain,Mental retardation
+45,Male,Vitamin C,Slow wound healing,Bleeding gums,Slow wound healing
+56,Male,Copper,Low body temperature,Anemia,Anemia
+68,Female,Vitamin C,Weak immunity,Slow wound healing,Joint pain
+21,Female,Vitamin A,Night blindness,Dry skin,Night blindness
+18,Female,Magnesium,Mental disorders,Osteoporosis,Irregular heartbeat
+55,Male,Vitamin C,Slow wound healing,Weak immunity,Bleeding gums
+41,Male,Potassium,Heart palpitations,Fatigue,Heart palpitations
+48,Male,Vitamin A,Frequent infections,Dry skin,Night blindness
+40,Male,Calcium,Numbness,Muscle cramps,Numbness
+45,Female,Calcium,Muscle cramps,Numbness,Muscle cramps
+17,Female,Sodium,Seizures,Headache,Seizures
+62,Female,Calcium,Tooth decay,Numbness,Osteoporosis
+67,Male,Iodine,Neck swelling,Cold sensitivity,Thyroid dysfunction
+68,Female,Selenium,Fatigue,Hair loss,Weak immunity
+23,Male,Iron,Fatigue,Pale skin,Pale skin
+16,Female,Phosphorus,Fatigue,Bone pain,Fatigue
+14,Male,Sodium,Seizures,Confusion,Headache
+40,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+11,Female,Chromium,Fatigue,Poor glucose control,Fatigue
+61,Male,Sodium,Confusion,Headache,Low blood pressure
+11,Female,Manganese,Mood changes,Poor bone growth,Skin issues
+14,Female,Folate (B9),Fatigue,Headache,Birth defects (during pregnancy)
+19,Male,Zinc,Slow wound healing,Impaired taste,Slow wound healing
+24,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+45,Female,Copper,Low body temperature,Bone abnormalities,Low body temperature
+24,Male,Potassium,Muscle weakness,Heart palpitations,Fatigue
+35,Male,Copper,Anemia,Bone abnormalities,Bone abnormalities
+46,Male,Vitamin C,Bleeding gums,Weak immunity,Bleeding gums
+46,Female,Selenium,Fatigue,Mental fog,Hair loss
+48,Female,Sodium,Confusion,Headache,Seizures
+69,Female,Vitamin E,Muscle weakness,Numbness,Coordination issues
+53,Female,Selenium,Mental fog,Hair loss,Fatigue
+59,Female,Vitamin K,Excessive bleeding,Blood clot issues,Excessive bleeding
+69,Female,Phosphorus,Weak muscles,Fatigue,Fatigue
+61,Male,Chromium,Weight loss,Fatigue,Mood swings
+10,Female,Copper,Bone abnormalities,Anemia,Growth delay
+44,Female,Calcium,Numbness,Tooth decay,Muscle cramps
+32,Male,Vitamin D,Muscle weakness,Bone pain,Depression
+43,Male,Iodine,Neck swelling,Cold sensitivity,Weight gain
+75,Female,Sodium,Confusion,Headache,Low blood pressure
+47,Female,Iodine,Neck swelling,Cold sensitivity,Weight gain
+41,Female,Vitamin A,Night blindness,Dry skin,Dry skin
+61,Male,Copper,Low body temperature,Anemia,Low body temperature
+49,Male,Vitamin A,Dry skin,Frequent infections,Dry skin
+50,Male,Phosphorus,Fatigue,Bone pain,Weak muscles
+69,Female,Vitamin B12,Tingling in hands,Memory issues,Mood swings
+56,Male,Iron,Pale skin,Shortness of breath,Shortness of breath
+13,Female,Vitamin E,Numbness,Muscle weakness,Numbness
+44,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+22,Male,Vitamin K,Blood clot issues,Excessive bleeding,Easy bruising
+33,Female,Vitamin A,Night blindness,Frequent infections,Night blindness
+22,Female,Iodine,Cold sensitivity,Neck swelling,Cold sensitivity
+69,Female,Selenium,Fatigue,Mental fog,Weak immunity
+37,Male,Sodium,Confusion,Seizures,Seizures
+46,Female,Sodium,Seizures,Headache,Seizures
+48,Male,Sodium,Seizures,Headache,Headache
+75,Female,Potassium,Heart palpitations,Fatigue,Heart palpitations
+45,Female,Chromium,Weight loss,Fatigue,Weight loss
+10,Male,Iron,Shortness of breath,Pale skin,Poor appetite
+74,Male,Folate (B9),Fatigue,Irritability,Irritability
+25,Female,Vitamin K,Easy bruising,Blood clot issues,Blood clot issues
+38,Female,Vitamin E,Muscle weakness,Vision problems,Vision problems
+13,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+33,Male,Sodium,Headache,Seizures,Headache
+41,Female,Selenium,Fatigue,Mental fog,Mental fog
+68,Female,Folate (B9),Irritability,Headache,Birth defects (during pregnancy)
+44,Female,Vitamin K,Blood clot issues,Easy bruising,Easy bruising
+67,Male,Potassium,Muscle weakness,Heart palpitations,Muscle weakness
+21,Male,Iodine,Cold sensitivity,Neck swelling,Neck swelling
+30,Male,Folate (B9),Fatigue,Headache,Fatigue
+33,Male,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+33,Female,Chromium,Weight loss,Fatigue,Poor glucose control
+31,Male,Folate (B9),Irritability,Headache,Headache
+66,Male,Vitamin A,Frequent infections,Night blindness,Thinning hair
+15,Female,Folate (B9),Headache,Fatigue,Growth problems
+19,Female,Vitamin K,Excessive bleeding,Blood clot issues,Excessive bleeding
+38,Male,Vitamin E,Vision problems,Muscle weakness,Vision problems
+53,Male,Vitamin C,Weak immunity,Bleeding gums,Bleeding gums
+16,Male,Potassium,Fatigue,Muscle weakness,Fatigue
+26,Male,Iodine,Weight gain,Cold sensitivity,Neck swelling
+32,Female,Folate (B9),Fatigue,Headache,Birth defects (during pregnancy)
+28,Female,Vitamin K,Excessive bleeding,Blood clot issues,Easy bruising
+10,Male,Manganese,Skin issues,Poor bone growth,Poor bone growth
+74,Male,Calcium,Numbness,Tooth decay,Osteoporosis
+33,Female,Potassium,Heart palpitations,Muscle weakness,Muscle weakness
+45,Female,Calcium,Tooth decay,Numbness,Numbness
+58,Male,Potassium,Heart palpitations,Fatigue,Fatigue
+11,Male,Sodium,Headache,Confusion,Seizures
+46,Male,Vitamin A,Frequent infections,Dry skin,Dry skin
+65,Male,Vitamin D,Muscle weakness,Depression,Frequent fractures
+50,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+57,Female,Chromium,Fatigue,Weight loss,Poor glucose control
+19,Male,Calcium,Muscle cramps,Numbness,Tooth decay
+53,Female,Vitamin B12,Memory issues,Fatigue,Mood swings
+15,Male,Magnesium,Osteoporosis,Mental disorders,Osteoporosis
+33,Male,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+20,Female,Vitamin C,Weak immunity,Slow wound healing,Bleeding gums
+34,Male,Vitamin D,Muscle weakness,Bone pain,Depression
+29,Male,Selenium,Fatigue,Mental fog,Hair loss
+58,Male,Zinc,Slow wound healing,Impaired taste,Impaired taste
+31,Male,Chromium,Poor glucose control,Fatigue,Poor glucose control
+25,Female,Vitamin A,Frequent infections,Dry skin,Dry skin
+30,Male,Selenium,Hair loss,Fatigue,Mental fog
+75,Female,Vitamin E,Vision problems,Muscle weakness,Coordination issues
+21,Male,Magnesium,Osteoporosis,Muscle twitches,Mental disorders
+72,Male,Vitamin B12,Tingling in hands,Fatigue,Balance problems
+32,Female,Zinc,Impaired taste,Hair loss,Impaired taste
+44,Male,Sodium,Headache,Seizures,Seizures
+36,Female,Vitamin D,Depression,Bone pain,Depression
+29,Male,Vitamin A,Dry skin,Frequent infections,Night blindness
+15,Female,Iron,Fatigue,Shortness of breath,Heavy menstruation
+65,Male,Folate (B9),Headache,Fatigue,Fatigue
+40,Male,Folate (B9),Headache,Fatigue,Fatigue
+34,Female,Iron,Fatigue,Shortness of breath,Heavy menstruation
+41,Male,Vitamin E,Muscle weakness,Numbness,Numbness
+63,Male,Vitamin D,Depression,Muscle weakness,Frequent fractures
+26,Male,Calcium,Muscle cramps,Numbness,Muscle cramps
+50,Female,Vitamin A,Frequent infections,Dry skin,Dry skin
+17,Female,Vitamin E,Numbness,Muscle weakness,Vision problems
+73,Male,Phosphorus,Bone pain,Fatigue,Weak muscles
+13,Male,Copper,Bone abnormalities,Low body temperature,Growth delay
+16,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+47,Male,Manganese,Mood changes,Poor bone growth,Mood changes
+22,Female,Iodine,Cold sensitivity,Weight gain,Cold sensitivity
+38,Male,Iodine,Weight gain,Neck swelling,Cold sensitivity
+57,Male,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+70,Male,Vitamin A,Dry skin,Night blindness,Thinning hair
+38,Female,Vitamin A,Night blindness,Frequent infections,Frequent infections
+24,Female,Calcium,Numbness,Tooth decay,Numbness
+69,Male,Vitamin B12,Fatigue,Tingling in hands,Balance problems
+66,Male,Vitamin K,Blood clot issues,Excessive bleeding,Excessive bleeding
+23,Male,Copper,Bone abnormalities,Anemia,Bone abnormalities
+55,Female,Sodium,Headache,Confusion,Headache
+34,Female,Vitamin C,Slow wound healing,Weak immunity,Bleeding gums
+54,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+40,Male,Vitamin D,Bone pain,Depression,Depression
+19,Female,Phosphorus,Fatigue,Weak muscles,Bone pain
+26,Male,Vitamin A,Dry skin,Night blindness,Dry skin
+13,Female,Manganese,Skin issues,Poor bone growth,Poor bone growth
+54,Female,Vitamin A,Dry skin,Frequent infections,Dry skin
+44,Male,Sodium,Confusion,Headache,Seizures
+27,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+26,Male,Sodium,Confusion,Seizures,Seizures
+49,Female,Calcium,Numbness,Muscle cramps,Tooth decay
+25,Female,Copper,Bone abnormalities,Low body temperature,Low body temperature
+61,Female,Copper,Anemia,Bone abnormalities,Low body temperature
+27,Male,Calcium,Tooth decay,Muscle cramps,Numbness
+24,Female,Zinc,Slow wound healing,Impaired taste,Impaired taste
+50,Female,Vitamin C,Weak immunity,Slow wound healing,Weak immunity
+71,Female,Vitamin A,Night blindness,Dry skin,Thinning hair
+14,Male,Vitamin B12,Tingling in hands,Fatigue,Tingling in hands
+59,Male,Chromium,Weight loss,Poor glucose control,Weight loss
+38,Male,Copper,Low body temperature,Bone abnormalities,Anemia
+41,Female,Phosphorus,Fatigue,Weak muscles,Fatigue
+21,Female,Vitamin K,Excessive bleeding,Easy bruising,Easy bruising
+22,Male,Vitamin K,Blood clot issues,Excessive bleeding,Excessive bleeding
+74,Female,Manganese,Skin issues,Mood changes,Skin issues
+38,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+64,Male,Phosphorus,Bone pain,Fatigue,Weak muscles
+61,Male,Manganese,Skin issues,Mood changes,Mood changes
+14,Female,Selenium,Hair loss,Fatigue,Fatigue
+54,Male,Vitamin D,Depression,Bone pain,Muscle weakness
+59,Male,Vitamin A,Dry skin,Frequent infections,Dry skin
+63,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+36,Female,Vitamin E,Vision problems,Muscle weakness,Numbness
+27,Male,Manganese,Poor bone growth,Skin issues,Skin issues
+24,Male,Vitamin C,Bleeding gums,Weak immunity,Bleeding gums
+71,Male,Calcium,Tooth decay,Muscle cramps,Osteoporosis
+51,Female,Chromium,Fatigue,Poor glucose control,Fatigue
+54,Male,Iron,Fatigue,Pale skin,Shortness of breath
+44,Male,Potassium,Muscle weakness,Fatigue,Fatigue
+13,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+19,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+29,Male,Sodium,Headache,Seizures,Seizures
+51,Female,Vitamin E,Muscle weakness,Vision problems,Numbness
+40,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+41,Male,Selenium,Hair loss,Mental fog,Fatigue
+43,Female,Vitamin K,Easy bruising,Blood clot issues,Easy bruising
+23,Male,Iron,Fatigue,Shortness of breath,Shortness of breath
+37,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+12,Male,Iodine,Cold sensitivity,Weight gain,Mental retardation
+67,Female,Potassium,Muscle weakness,Fatigue,Muscle weakness
+32,Male,Vitamin B12,Tingling in hands,Fatigue,Tingling in hands
+70,Female,Manganese,Mood changes,Poor bone growth,Mood changes
+56,Female,Vitamin A,Frequent infections,Dry skin,Frequent infections
+59,Male,Phosphorus,Bone pain,Weak muscles,Weak muscles
+62,Male,Copper,Bone abnormalities,Low body temperature,Anemia
+17,Female,Iron,Shortness of breath,Pale skin,Poor appetite
+59,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+25,Male,Vitamin B12,Fatigue,Tingling in hands,Fatigue
+69,Male,Manganese,Mood changes,Skin issues,Skin issues
+68,Male,Vitamin D,Muscle weakness,Depression,Frequent fractures
+19,Female,Sodium,Confusion,Headache,Seizures
+43,Female,Vitamin B12,Tingling in hands,Fatigue,Mood swings
+14,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+67,Female,Zinc,Hair loss,Slow wound healing,Weak immunity
+63,Female,Phosphorus,Fatigue,Bone pain,Weak muscles
+46,Female,Chromium,Poor glucose control,Weight loss,Fatigue
+63,Female,Manganese,Skin issues,Poor bone growth,Poor bone growth
+11,Male,Potassium,Fatigue,Muscle weakness,Muscle weakness
+19,Female,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+40,Male,Iron,Fatigue,Shortness of breath,Fatigue
+72,Female,Iron,Fatigue,Pale skin,Heavy menstruation
+55,Female,Phosphorus,Weak muscles,Fatigue,Fatigue
+10,Female,Vitamin K,Easy bruising,Blood clot issues,Nosebleeds
+16,Female,Iodine,Weight gain,Neck swelling,Mental retardation
+11,Male,Chromium,Fatigue,Weight loss,Weight loss
+12,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+67,Male,Vitamin E,Numbness,Muscle weakness,Coordination issues
+54,Male,Copper,Bone abnormalities,Anemia,Anemia
+53,Female,Iron,Fatigue,Shortness of breath,Heavy menstruation
+41,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+52,Male,Potassium,Muscle weakness,Heart palpitations,Heart palpitations
+72,Male,Folate (B9),Irritability,Fatigue,Headache
+11,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+63,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+58,Female,Zinc,Hair loss,Slow wound healing,Slow wound healing
+69,Male,Magnesium,Muscle twitches,Mental disorders,High blood pressure
+55,Female,Vitamin A,Frequent infections,Dry skin,Night blindness
+70,Male,Selenium,Hair loss,Mental fog,Weak immunity
+39,Female,Potassium,Heart palpitations,Fatigue,Heart palpitations
+50,Female,Zinc,Impaired taste,Hair loss,Slow wound healing
+27,Male,Vitamin D,Depression,Muscle weakness,Muscle weakness
+70,Male,Selenium,Hair loss,Fatigue,Weak immunity
+47,Female,Sodium,Confusion,Headache,Confusion
+41,Female,Vitamin B12,Memory issues,Fatigue,Mood swings
+39,Male,Chromium,Weight loss,Poor glucose control,Fatigue
+48,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+18,Female,Zinc,Hair loss,Slow wound healing,Slow wound healing
+27,Female,Calcium,Muscle cramps,Tooth decay,Numbness
+41,Female,Vitamin A,Frequent infections,Night blindness,Dry skin
+25,Male,Iodine,Neck swelling,Cold sensitivity,Weight gain
+49,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+18,Female,Vitamin D,Depression,Bone pain,Muscle weakness
+34,Male,Magnesium,Muscle twitches,Mental disorders,Osteoporosis
+30,Male,Vitamin C,Bleeding gums,Slow wound healing,Bleeding gums
+35,Male,Calcium,Numbness,Muscle cramps,Muscle cramps
+74,Female,Sodium,Headache,Seizures,Low blood pressure
+24,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+45,Male,Vitamin B12,Fatigue,Memory issues,Fatigue
+44,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+39,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+33,Male,Manganese,Skin issues,Mood changes,Poor bone growth
+48,Male,Folate (B9),Headache,Irritability,Fatigue
+63,Male,Iron,Pale skin,Shortness of breath,Chest pain
+67,Female,Chromium,Fatigue,Weight loss,Mood swings
+19,Female,Vitamin E,Vision problems,Muscle weakness,Vision problems
+33,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+14,Female,Manganese,Mood changes,Skin issues,Skin issues
+31,Male,Calcium,Numbness,Tooth decay,Muscle cramps
+60,Male,Manganese,Poor bone growth,Skin issues,Skin issues
+27,Female,Sodium,Confusion,Seizures,Headache
+40,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+19,Male,Phosphorus,Fatigue,Weak muscles,Bone pain
+24,Male,Vitamin E,Muscle weakness,Vision problems,Vision problems
+71,Male,Chromium,Fatigue,Poor glucose control,Mood swings
+19,Female,Vitamin D,Depression,Muscle weakness,Depression
+49,Male,Chromium,Fatigue,Poor glucose control,Fatigue
+23,Male,Folate (B9),Irritability,Fatigue,Irritability
+28,Male,Potassium,Muscle weakness,Heart palpitations,Fatigue
+51,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+30,Male,Sodium,Seizures,Headache,Seizures
+73,Male,Vitamin C,Slow wound healing,Bleeding gums,Joint pain
+39,Female,Sodium,Confusion,Seizures,Seizures
+40,Female,Zinc,Impaired taste,Slow wound healing,Slow wound healing
+37,Female,Vitamin A,Frequent infections,Dry skin,Frequent infections
+16,Male,Selenium,Hair loss,Mental fog,Hair loss
+73,Male,Iodine,Weight gain,Neck swelling,Thyroid dysfunction
+54,Male,Folate (B9),Fatigue,Headache,Irritability
+11,Male,Vitamin E,Vision problems,Muscle weakness,Numbness
+53,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+47,Male,Zinc,Impaired taste,Hair loss,Slow wound healing
+64,Female,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+11,Male,Vitamin B12,Tingling in hands,Memory issues,Fatigue
+66,Male,Vitamin C,Slow wound healing,Bleeding gums,Joint pain
+45,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+56,Female,Vitamin A,Frequent infections,Night blindness,Frequent infections
+57,Male,Zinc,Impaired taste,Slow wound healing,Impaired taste
+27,Male,Chromium,Poor glucose control,Fatigue,Weight loss
+63,Male,Manganese,Mood changes,Skin issues,Skin issues
+41,Female,Sodium,Seizures,Confusion,Headache
+37,Female,Phosphorus,Fatigue,Weak muscles,Weak muscles
+72,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+46,Female,Phosphorus,Weak muscles,Bone pain,Weak muscles
+71,Male,Zinc,Impaired taste,Slow wound healing,Weak immunity
+52,Female,Vitamin B12,Tingling in hands,Memory issues,Mood swings
+10,Female,Sodium,Seizures,Confusion,Seizures
+18,Female,Chromium,Weight loss,Poor glucose control,Fatigue
+38,Male,Calcium,Tooth decay,Muscle cramps,Muscle cramps
+22,Male,Potassium,Heart palpitations,Muscle weakness,Fatigue
+23,Female,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+69,Female,Folate (B9),Irritability,Headache,Birth defects (during pregnancy)
+68,Male,Vitamin D,Depression,Bone pain,Frequent fractures
+30,Female,Chromium,Weight loss,Poor glucose control,Poor glucose control
+65,Male,Manganese,Mood changes,Poor bone growth,Skin issues
+71,Female,Selenium,Hair loss,Mental fog,Weak immunity
+50,Male,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+24,Male,Zinc,Hair loss,Impaired taste,Slow wound healing
+29,Male,Vitamin D,Depression,Muscle weakness,Depression
+32,Male,Iron,Shortness of breath,Pale skin,Fatigue
+37,Male,Potassium,Fatigue,Muscle weakness,Muscle weakness
+74,Male,Vitamin E,Numbness,Muscle weakness,Coordination issues
+50,Male,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+50,Female,Folate (B9),Headache,Irritability,Birth defects (during pregnancy)
+70,Female,Manganese,Mood changes,Skin issues,Poor bone growth
+60,Male,Iron,Shortness of breath,Fatigue,Chest pain
+21,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+58,Male,Potassium,Fatigue,Muscle weakness,Heart palpitations
+49,Female,Zinc,Slow wound healing,Impaired taste,Slow wound healing
+53,Female,Zinc,Slow wound healing,Impaired taste,Hair loss
+68,Male,Vitamin B12,Tingling in hands,Memory issues,Balance problems
+62,Female,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+59,Male,Manganese,Poor bone growth,Skin issues,Poor bone growth
+57,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+19,Female,Selenium,Hair loss,Mental fog,Hair loss
+12,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+46,Female,Manganese,Poor bone growth,Skin issues,Mood changes
+54,Male,Manganese,Poor bone growth,Skin issues,Mood changes
+41,Male,Vitamin C,Slow wound healing,Bleeding gums,Slow wound healing
+32,Male,Selenium,Hair loss,Mental fog,Mental fog
+58,Male,Phosphorus,Bone pain,Weak muscles,Bone pain
+68,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+51,Male,Vitamin B12,Memory issues,Fatigue,Fatigue
+15,Female,Vitamin K,Excessive bleeding,Blood clot issues,Nosebleeds
+44,Female,Sodium,Confusion,Headache,Seizures
+40,Male,Vitamin C,Slow wound healing,Weak immunity,Weak immunity
+13,Female,Sodium,Headache,Seizures,Seizures
+63,Female,Copper,Anemia,Bone abnormalities,Low body temperature
+13,Female,Phosphorus,Fatigue,Bone pain,Weak muscles
+12,Female,Manganese,Poor bone growth,Skin issues,Skin issues
+19,Male,Vitamin K,Blood clot issues,Easy bruising,Easy bruising
+17,Male,Selenium,Hair loss,Mental fog,Mental fog
+33,Female,Iodine,Weight gain,Cold sensitivity,Neck swelling
+11,Female,Vitamin C,Weak immunity,Bleeding gums,Tooth loss
+65,Female,Copper,Anemia,Bone abnormalities,Anemia
+26,Male,Vitamin D,Muscle weakness,Bone pain,Bone pain
+33,Male,Vitamin B12,Memory issues,Fatigue,Memory issues
+38,Male,Manganese,Mood changes,Poor bone growth,Skin issues
+53,Male,Potassium,Muscle weakness,Fatigue,Heart palpitations
+17,Male,Vitamin B12,Fatigue,Memory issues,Memory issues
+28,Female,Vitamin D,Depression,Muscle weakness,Depression
+66,Male,Vitamin B12,Memory issues,Tingling in hands,Balance problems
+57,Male,Vitamin D,Depression,Bone pain,Muscle weakness
+15,Male,Potassium,Fatigue,Heart palpitations,Muscle weakness
+44,Male,Potassium,Heart palpitations,Fatigue,Fatigue
+46,Female,Vitamin K,Excessive bleeding,Blood clot issues,Easy bruising
+24,Male,Potassium,Muscle weakness,Fatigue,Heart palpitations
+66,Male,Calcium,Numbness,Muscle cramps,Osteoporosis
+27,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+74,Male,Magnesium,Osteoporosis,Mental disorders,High blood pressure
+43,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+29,Male,Iron,Shortness of breath,Pale skin,Shortness of breath
+66,Female,Sodium,Headache,Seizures,Low blood pressure
+21,Male,Magnesium,Muscle twitches,Mental disorders,Muscle twitches
+41,Female,Potassium,Muscle weakness,Fatigue,Muscle weakness
+26,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+49,Male,Copper,Anemia,Low body temperature,Bone abnormalities
+46,Female,Copper,Anemia,Bone abnormalities,Anemia
+31,Male,Potassium,Heart palpitations,Fatigue,Muscle weakness
+51,Male,Iron,Shortness of breath,Pale skin,Fatigue
+13,Male,Magnesium,Mental disorders,Muscle twitches,Muscle twitches
+69,Male,Iron,Shortness of breath,Fatigue,Chest pain
+23,Female,Calcium,Tooth decay,Muscle cramps,Numbness
+21,Male,Phosphorus,Bone pain,Fatigue,Bone pain
+43,Male,Phosphorus,Bone pain,Weak muscles,Bone pain
+44,Female,Potassium,Fatigue,Muscle weakness,Muscle weakness
+46,Male,Calcium,Tooth decay,Muscle cramps,Muscle cramps
+39,Female,Calcium,Numbness,Muscle cramps,Tooth decay
+69,Female,Vitamin C,Weak immunity,Bleeding gums,Joint pain
+27,Female,Selenium,Hair loss,Mental fog,Mental fog
+51,Male,Vitamin E,Vision problems,Numbness,Vision problems
+23,Female,Iodine,Cold sensitivity,Weight gain,Weight gain
+60,Female,Vitamin C,Weak immunity,Bleeding gums,Joint pain
+61,Female,Selenium,Fatigue,Hair loss,Weak immunity
+13,Female,Iodine,Neck swelling,Weight gain,Mental retardation
+43,Male,Copper,Bone abnormalities,Anemia,Bone abnormalities
+36,Female,Zinc,Impaired taste,Slow wound healing,Hair loss
+57,Female,Iodine,Neck swelling,Weight gain,Neck swelling
+16,Female,Vitamin C,Weak immunity,Bleeding gums,Tooth loss
+28,Male,Zinc,Hair loss,Impaired taste,Hair loss
+17,Male,Zinc,Impaired taste,Slow wound healing,Stunted growth
+73,Male,Phosphorus,Weak muscles,Bone pain,Fatigue
+25,Female,Vitamin A,Frequent infections,Dry skin,Dry skin
+47,Female,Vitamin A,Dry skin,Night blindness,Frequent infections
+65,Female,Vitamin E,Vision problems,Numbness,Coordination issues
+36,Female,Vitamin E,Vision problems,Numbness,Numbness
+14,Male,Phosphorus,Bone pain,Fatigue,Fatigue
+42,Female,Vitamin C,Slow wound healing,Weak immunity,Slow wound healing
+27,Female,Phosphorus,Fatigue,Bone pain,Fatigue
+32,Male,Potassium,Fatigue,Muscle weakness,Muscle weakness
+17,Male,Iron,Pale skin,Fatigue,Poor appetite
+74,Male,Selenium,Hair loss,Mental fog,Weak immunity
+45,Male,Vitamin E,Muscle weakness,Numbness,Vision problems
+45,Female,Vitamin D,Bone pain,Depression,Muscle weakness
+42,Male,Calcium,Numbness,Muscle cramps,Tooth decay
+69,Male,Vitamin E,Muscle weakness,Numbness,Coordination issues
+15,Male,Vitamin K,Excessive bleeding,Easy bruising,Nosebleeds
+33,Male,Vitamin C,Slow wound healing,Bleeding gums,Slow wound healing
+43,Female,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+17,Female,Vitamin D,Muscle weakness,Bone pain,Delayed growth
+51,Male,Calcium,Muscle cramps,Tooth decay,Numbness
+38,Male,Calcium,Tooth decay,Numbness,Tooth decay
+25,Male,Folate (B9),Irritability,Headache,Fatigue
+17,Female,Sodium,Headache,Seizures,Seizures
+46,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+59,Male,Folate (B9),Irritability,Headache,Irritability
+73,Male,Vitamin A,Frequent infections,Night blindness,Thinning hair
+35,Female,Vitamin D,Bone pain,Depression,Depression
+68,Male,Sodium,Confusion,Seizures,Low blood pressure
+56,Female,Iron,Pale skin,Fatigue,Heavy menstruation
+36,Male,Phosphorus,Weak muscles,Fatigue,Weak muscles
+25,Female,Vitamin B12,Memory issues,Fatigue,Mood swings
+26,Female,Vitamin K,Excessive bleeding,Easy bruising,Easy bruising
+50,Female,Potassium,Heart palpitations,Muscle weakness,Heart palpitations
+26,Female,Calcium,Muscle cramps,Tooth decay,Numbness
+59,Female,Vitamin D,Muscle weakness,Depression,Bone pain
+16,Male,Chromium,Weight loss,Poor glucose control,Weight loss
+49,Female,Manganese,Mood changes,Poor bone growth,Poor bone growth
+31,Male,Magnesium,Osteoporosis,Muscle twitches,Muscle twitches
+48,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+18,Male,Vitamin E,Vision problems,Muscle weakness,Vision problems
+64,Male,Folate (B9),Irritability,Headache,Irritability
+18,Male,Potassium,Fatigue,Muscle weakness,Muscle weakness
+73,Female,Vitamin E,Numbness,Muscle weakness,Coordination issues
+37,Female,Selenium,Mental fog,Hair loss,Fatigue
+51,Female,Vitamin E,Vision problems,Muscle weakness,Vision problems
+20,Male,Vitamin E,Muscle weakness,Numbness,Numbness
+17,Female,Chromium,Fatigue,Poor glucose control,Weight loss
+70,Female,Potassium,Heart palpitations,Fatigue,Fatigue
+34,Male,Sodium,Confusion,Headache,Seizures
+45,Female,Vitamin E,Numbness,Vision problems,Vision problems
+44,Female,Copper,Low body temperature,Anemia,Anemia
+19,Male,Zinc,Hair loss,Slow wound healing,Slow wound healing
+44,Male,Phosphorus,Bone pain,Fatigue,Fatigue
+32,Female,Calcium,Muscle cramps,Numbness,Tooth decay
+69,Male,Copper,Bone abnormalities,Low body temperature,Anemia
+43,Male,Iron,Shortness of breath,Fatigue,Shortness of breath
+32,Female,Manganese,Poor bone growth,Mood changes,Mood changes
+65,Female,Iron,Pale skin,Fatigue,Chest pain
+74,Female,Vitamin C,Bleeding gums,Slow wound healing,Joint pain
+24,Female,Vitamin C,Slow wound healing,Bleeding gums,Weak immunity
+65,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+34,Male,Vitamin B12,Memory issues,Tingling in hands,Tingling in hands
+48,Male,Chromium,Weight loss,Fatigue,Weight loss
+14,Female,Iron,Fatigue,Pale skin,Heavy menstruation
+33,Male,Copper,Bone abnormalities,Anemia,Bone abnormalities
+10,Female,Selenium,Hair loss,Mental fog,Mental fog
+32,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+52,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+59,Female,Chromium,Poor glucose control,Fatigue,Poor glucose control
+28,Male,Iodine,Neck swelling,Cold sensitivity,Cold sensitivity
+41,Female,Potassium,Heart palpitations,Fatigue,Heart palpitations
+41,Female,Iron,Fatigue,Shortness of breath,Heavy menstruation
+17,Female,Selenium,Fatigue,Mental fog,Mental fog
+48,Male,Zinc,Slow wound healing,Hair loss,Hair loss
+30,Male,Calcium,Tooth decay,Numbness,Numbness
+11,Male,Calcium,Muscle cramps,Numbness,Poor bone growth
+59,Male,Vitamin A,Frequent infections,Night blindness,Frequent infections
+29,Female,Zinc,Impaired taste,Hair loss,Impaired taste
+48,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+59,Male,Vitamin E,Muscle weakness,Vision problems,Numbness
+14,Female,Chromium,Weight loss,Poor glucose control,Weight loss
+49,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+40,Male,Magnesium,Mental disorders,Muscle twitches,Mental disorders
+64,Female,Manganese,Skin issues,Poor bone growth,Poor bone growth
+33,Female,Copper,Low body temperature,Anemia,Low body temperature
+58,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+49,Male,Selenium,Fatigue,Mental fog,Hair loss
+18,Female,Phosphorus,Weak muscles,Bone pain,Weak muscles
+41,Female,Vitamin D,Bone pain,Muscle weakness,Depression
+12,Male,Chromium,Poor glucose control,Weight loss,Weight loss
+29,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+27,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+67,Male,Manganese,Poor bone growth,Mood changes,Mood changes
+21,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+31,Female,Vitamin B12,Tingling in hands,Fatigue,Mood swings
+39,Female,Phosphorus,Weak muscles,Bone pain,Bone pain
+43,Male,Vitamin K,Excessive bleeding,Easy bruising,Excessive bleeding
+33,Female,Copper,Anemia,Bone abnormalities,Anemia
+46,Male,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+18,Male,Iron,Pale skin,Fatigue,Shortness of breath
+25,Male,Iron,Fatigue,Pale skin,Fatigue
+31,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+17,Male,Chromium,Poor glucose control,Weight loss,Fatigue
+23,Female,Vitamin A,Night blindness,Frequent infections,Night blindness
+14,Male,Copper,Low body temperature,Anemia,Growth delay
+74,Female,Copper,Bone abnormalities,Low body temperature,Bone abnormalities
+50,Female,Vitamin D,Depression,Muscle weakness,Depression
+11,Female,Vitamin D,Depression,Bone pain,Delayed growth
+72,Male,Iodine,Weight gain,Cold sensitivity,Thyroid dysfunction
+65,Male,Selenium,Fatigue,Mental fog,Weak immunity
+37,Male,Manganese,Poor bone growth,Skin issues,Poor bone growth
+15,Female,Vitamin D,Bone pain,Depression,Delayed growth
+47,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+60,Male,Vitamin K,Blood clot issues,Easy bruising,Easy bruising
+14,Female,Selenium,Mental fog,Fatigue,Mental fog
+18,Male,Vitamin E,Numbness,Vision problems,Numbness
+54,Male,Phosphorus,Bone pain,Weak muscles,Bone pain
+50,Female,Vitamin A,Dry skin,Frequent infections,Dry skin
+72,Female,Vitamin C,Weak immunity,Slow wound healing,Joint pain
+16,Female,Zinc,Impaired taste,Slow wound healing,Stunted growth
+16,Female,Iodine,Neck swelling,Cold sensitivity,Mental retardation
+21,Female,Iodine,Weight gain,Cold sensitivity,Neck swelling
+23,Male,Vitamin C,Weak immunity,Bleeding gums,Bleeding gums
+45,Male,Copper,Low body temperature,Bone abnormalities,Low body temperature
+45,Male,Vitamin D,Muscle weakness,Bone pain,Bone pain
+72,Female,Vitamin A,Dry skin,Frequent infections,Thinning hair
+69,Female,Selenium,Mental fog,Hair loss,Weak immunity
+33,Male,Vitamin K,Blood clot issues,Excessive bleeding,Easy bruising
+64,Female,Copper,Low body temperature,Bone abnormalities,Low body temperature
+67,Male,Folate (B9),Headache,Fatigue,Fatigue
+42,Male,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+73,Female,Vitamin E,Vision problems,Muscle weakness,Coordination issues
+46,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+15,Female,Vitamin C,Slow wound healing,Weak immunity,Tooth loss
+37,Male,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+17,Female,Iron,Shortness of breath,Pale skin,Poor appetite
+19,Female,Iron,Fatigue,Shortness of breath,Heavy menstruation
+12,Male,Folate (B9),Irritability,Headache,Growth problems
+74,Female,Iodine,Cold sensitivity,Weight gain,Thyroid dysfunction
+49,Male,Copper,Low body temperature,Anemia,Anemia
+42,Female,Vitamin A,Frequent infections,Dry skin,Dry skin
+31,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+12,Male,Phosphorus,Bone pain,Weak muscles,Bone pain
+72,Male,Manganese,Mood changes,Poor bone growth,Skin issues
+75,Female,Vitamin K,Blood clot issues,Easy bruising,Excessive bleeding
+57,Female,Potassium,Fatigue,Muscle weakness,Muscle weakness
+62,Male,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+62,Male,Iron,Shortness of breath,Pale skin,Chest pain
+59,Female,Vitamin K,Blood clot issues,Excessive bleeding,Blood clot issues
+13,Male,Vitamin E,Numbness,Vision problems,Muscle weakness
+74,Female,Vitamin C,Weak immunity,Bleeding gums,Joint pain
+70,Female,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+67,Male,Iron,Shortness of breath,Pale skin,Chest pain
+51,Female,Vitamin E,Muscle weakness,Numbness,Muscle weakness
+70,Male,Vitamin B12,Memory issues,Fatigue,Balance problems
+72,Male,Zinc,Slow wound healing,Hair loss,Weak immunity
+19,Female,Vitamin K,Blood clot issues,Excessive bleeding,Excessive bleeding
+25,Female,Zinc,Impaired taste,Hair loss,Impaired taste
+22,Male,Folate (B9),Fatigue,Irritability,Irritability
+66,Female,Copper,Low body temperature,Anemia,Anemia
+42,Female,Folate (B9),Fatigue,Headache,Birth defects (during pregnancy)
+63,Male,Copper,Anemia,Low body temperature,Low body temperature
+39,Male,Vitamin E,Numbness,Vision problems,Numbness
+71,Female,Calcium,Numbness,Muscle cramps,Osteoporosis
+26,Male,Copper,Bone abnormalities,Low body temperature,Anemia
+39,Male,Vitamin B12,Tingling in hands,Memory issues,Tingling in hands
+12,Female,Zinc,Impaired taste,Slow wound healing,Stunted growth
+13,Female,Potassium,Heart palpitations,Fatigue,Fatigue
+61,Female,Phosphorus,Weak muscles,Bone pain,Bone pain
+48,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+39,Male,Zinc,Hair loss,Slow wound healing,Slow wound healing
+37,Female,Potassium,Fatigue,Muscle weakness,Fatigue
+65,Female,Vitamin K,Excessive bleeding,Easy bruising,Blood clot issues
+54,Male,Vitamin B12,Fatigue,Memory issues,Fatigue
+33,Female,Calcium,Tooth decay,Muscle cramps,Tooth decay
+56,Female,Copper,Bone abnormalities,Anemia,Low body temperature
+10,Female,Vitamin E,Numbness,Muscle weakness,Vision problems
+18,Female,Zinc,Impaired taste,Hair loss,Hair loss
+23,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+55,Male,Magnesium,Muscle twitches,Osteoporosis,Muscle twitches
+27,Female,Phosphorus,Weak muscles,Fatigue,Fatigue
+54,Male,Vitamin A,Frequent infections,Dry skin,Night blindness
+63,Male,Manganese,Poor bone growth,Mood changes,Mood changes
+63,Female,Vitamin B12,Memory issues,Fatigue,Balance problems
+75,Male,Vitamin B12,Fatigue,Tingling in hands,Balance problems
+49,Female,Selenium,Hair loss,Mental fog,Fatigue
+12,Female,Zinc,Slow wound healing,Hair loss,Stunted growth
+52,Female,Zinc,Impaired taste,Hair loss,Slow wound healing
+13,Female,Folate (B9),Headache,Irritability,Birth defects (during pregnancy)
+42,Male,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+61,Male,Manganese,Poor bone growth,Skin issues,Poor bone growth
+38,Male,Phosphorus,Fatigue,Weak muscles,Fatigue
+13,Female,Copper,Anemia,Bone abnormalities,Growth delay
+75,Male,Folate (B9),Irritability,Headache,Headache
+13,Male,Zinc,Impaired taste,Slow wound healing,Stunted growth
+61,Female,Sodium,Confusion,Headache,Low blood pressure
+13,Female,Chromium,Weight loss,Fatigue,Fatigue
+49,Female,Chromium,Poor glucose control,Weight loss,Weight loss
+30,Female,Calcium,Numbness,Tooth decay,Tooth decay
+51,Female,Chromium,Fatigue,Poor glucose control,Weight loss
+47,Male,Selenium,Mental fog,Hair loss,Hair loss
+42,Male,Calcium,Tooth decay,Numbness,Muscle cramps
+73,Male,Magnesium,Muscle twitches,Osteoporosis,High blood pressure
+59,Male,Zinc,Slow wound healing,Impaired taste,Impaired taste
+41,Female,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+70,Female,Sodium,Confusion,Seizures,Low blood pressure
+37,Male,Vitamin E,Numbness,Muscle weakness,Muscle weakness
+70,Male,Phosphorus,Weak muscles,Bone pain,Weak muscles
+41,Female,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+73,Male,Magnesium,Osteoporosis,Mental disorders,High blood pressure
+68,Female,Sodium,Confusion,Seizures,Low blood pressure
+60,Male,Manganese,Skin issues,Mood changes,Skin issues
+43,Female,Sodium,Seizures,Confusion,Seizures
+62,Female,Iodine,Weight gain,Cold sensitivity,Thyroid dysfunction
+72,Female,Chromium,Fatigue,Weight loss,Mood swings
+33,Female,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+13,Male,Chromium,Weight loss,Poor glucose control,Poor glucose control
+11,Female,Potassium,Heart palpitations,Muscle weakness,Heart palpitations
+69,Female,Copper,Bone abnormalities,Low body temperature,Low body temperature
+67,Female,Vitamin A,Night blindness,Frequent infections,Thinning hair
+53,Female,Phosphorus,Fatigue,Weak muscles,Weak muscles
+42,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+33,Male,Magnesium,Muscle twitches,Osteoporosis,Mental disorders
+11,Male,Manganese,Mood changes,Poor bone growth,Skin issues
+65,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+23,Female,Vitamin B12,Memory issues,Fatigue,Mood swings
+45,Male,Calcium,Tooth decay,Numbness,Muscle cramps
+23,Male,Copper,Low body temperature,Bone abnormalities,Anemia
+65,Male,Selenium,Fatigue,Hair loss,Weak immunity
+20,Female,Vitamin D,Bone pain,Depression,Depression
+20,Female,Vitamin E,Vision problems,Numbness,Numbness
+33,Female,Selenium,Fatigue,Hair loss,Mental fog
+46,Female,Copper,Low body temperature,Bone abnormalities,Low body temperature
+38,Male,Vitamin D,Depression,Muscle weakness,Bone pain
+74,Female,Selenium,Fatigue,Hair loss,Weak immunity
+75,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+38,Male,Selenium,Fatigue,Hair loss,Mental fog
+31,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+16,Male,Iron,Shortness of breath,Fatigue,Poor appetite
+42,Female,Vitamin A,Night blindness,Frequent infections,Dry skin
+20,Female,Vitamin D,Bone pain,Depression,Depression
+26,Male,Magnesium,Osteoporosis,Muscle twitches,Mental disorders
+18,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+12,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+36,Female,Folate (B9),Fatigue,Headache,Birth defects (during pregnancy)
+50,Male,Chromium,Poor glucose control,Fatigue,Weight loss
+31,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+23,Female,Vitamin A,Frequent infections,Dry skin,Dry skin
+67,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+51,Male,Vitamin A,Frequent infections,Dry skin,Dry skin
+57,Female,Copper,Low body temperature,Bone abnormalities,Anemia
+54,Male,Sodium,Confusion,Headache,Seizures
+15,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+19,Female,Magnesium,Osteoporosis,Mental disorders,Irregular heartbeat
+71,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+50,Female,Chromium,Fatigue,Weight loss,Poor glucose control
+67,Male,Vitamin E,Numbness,Vision problems,Coordination issues
+31,Male,Manganese,Skin issues,Mood changes,Poor bone growth
+27,Female,Vitamin C,Slow wound healing,Bleeding gums,Slow wound healing
+40,Male,Calcium,Numbness,Muscle cramps,Tooth decay
+73,Male,Vitamin E,Numbness,Vision problems,Coordination issues
+16,Female,Iodine,Cold sensitivity,Neck swelling,Mental retardation
+49,Male,Iodine,Neck swelling,Cold sensitivity,Neck swelling
+70,Female,Vitamin C,Slow wound healing,Weak immunity,Joint pain
+33,Female,Zinc,Slow wound healing,Impaired taste,Slow wound healing
+71,Female,Phosphorus,Bone pain,Fatigue,Weak muscles
+44,Male,Vitamin D,Bone pain,Muscle weakness,Muscle weakness
+19,Female,Copper,Anemia,Low body temperature,Low body temperature
+55,Female,Vitamin E,Vision problems,Muscle weakness,Muscle weakness
+17,Female,Zinc,Slow wound healing,Hair loss,Stunted growth
+57,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+46,Female,Selenium,Mental fog,Hair loss,Mental fog
+69,Female,Zinc,Slow wound healing,Impaired taste,Weak immunity
+52,Male,Folate (B9),Fatigue,Irritability,Fatigue
+40,Female,Potassium,Fatigue,Muscle weakness,Muscle weakness
+57,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+42,Female,Vitamin B12,Tingling in hands,Fatigue,Mood swings
+45,Male,Folate (B9),Irritability,Fatigue,Fatigue
+40,Male,Calcium,Numbness,Muscle cramps,Muscle cramps
+62,Male,Vitamin E,Muscle weakness,Numbness,Coordination issues
+47,Female,Vitamin E,Vision problems,Numbness,Numbness
+35,Female,Calcium,Tooth decay,Muscle cramps,Muscle cramps
+21,Male,Vitamin A,Dry skin,Frequent infections,Night blindness
+20,Male,Vitamin B12,Memory issues,Fatigue,Memory issues
+32,Male,Iodine,Weight gain,Cold sensitivity,Neck swelling
+72,Female,Iodine,Neck swelling,Weight gain,Thyroid dysfunction
+17,Male,Vitamin K,Blood clot issues,Excessive bleeding,Nosebleeds
+41,Female,Chromium,Fatigue,Poor glucose control,Weight loss
+32,Female,Selenium,Mental fog,Hair loss,Fatigue
+33,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+73,Male,Vitamin E,Numbness,Vision problems,Coordination issues
+39,Male,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+58,Female,Iodine,Weight gain,Neck swelling,Neck swelling
+28,Female,Calcium,Numbness,Muscle cramps,Muscle cramps
+38,Female,Vitamin B12,Memory issues,Fatigue,Mood swings
+73,Female,Folate (B9),Fatigue,Headache,Birth defects (during pregnancy)
+56,Male,Phosphorus,Bone pain,Weak muscles,Bone pain
+13,Male,Phosphorus,Weak muscles,Fatigue,Weak muscles
+20,Female,Vitamin D,Muscle weakness,Depression,Depression
+45,Male,Manganese,Mood changes,Poor bone growth,Mood changes
+16,Male,Vitamin A,Dry skin,Frequent infections,Delayed growth
+74,Male,Vitamin B12,Fatigue,Tingling in hands,Balance problems
+16,Male,Manganese,Poor bone growth,Mood changes,Poor bone growth
+53,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+45,Female,Sodium,Headache,Confusion,Headache
+39,Male,Zinc,Impaired taste,Hair loss,Impaired taste
+43,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+38,Female,Iodine,Cold sensitivity,Weight gain,Neck swelling
+23,Female,Phosphorus,Weak muscles,Bone pain,Fatigue
+32,Male,Vitamin D,Depression,Bone pain,Bone pain
+59,Male,Calcium,Numbness,Tooth decay,Muscle cramps
+51,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+71,Male,Vitamin A,Frequent infections,Dry skin,Thinning hair
+44,Male,Vitamin C,Weak immunity,Bleeding gums,Bleeding gums
+39,Male,Vitamin B12,Fatigue,Memory issues,Memory issues
+15,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+60,Male,Vitamin D,Bone pain,Depression,Frequent fractures
+10,Female,Potassium,Muscle weakness,Heart palpitations,Heart palpitations
+44,Male,Phosphorus,Weak muscles,Bone pain,Weak muscles
+74,Male,Iron,Shortness of breath,Pale skin,Chest pain
+20,Male,Selenium,Mental fog,Fatigue,Mental fog
+63,Female,Calcium,Numbness,Muscle cramps,Osteoporosis
+63,Female,Vitamin A,Night blindness,Dry skin,Thinning hair
+35,Female,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+38,Male,Vitamin A,Night blindness,Dry skin,Frequent infections
+52,Female,Manganese,Skin issues,Mood changes,Mood changes
+33,Male,Iron,Fatigue,Shortness of breath,Pale skin
+72,Male,Iron,Fatigue,Pale skin,Chest pain
+63,Female,Chromium,Weight loss,Poor glucose control,Mood swings
+34,Female,Chromium,Poor glucose control,Fatigue,Weight loss
+62,Male,Sodium,Headache,Seizures,Low blood pressure
+18,Female,Potassium,Fatigue,Heart palpitations,Fatigue
+14,Female,Folate (B9),Headache,Irritability,Growth problems
+56,Female,Copper,Low body temperature,Bone abnormalities,Anemia
+35,Male,Folate (B9),Headache,Irritability,Headache
+20,Male,Manganese,Skin issues,Poor bone growth,Poor bone growth
+56,Female,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+68,Male,Vitamin C,Bleeding gums,Slow wound healing,Joint pain
+75,Female,Magnesium,Osteoporosis,Mental disorders,High blood pressure
+70,Female,Magnesium,Osteoporosis,Muscle twitches,High blood pressure
+20,Female,Zinc,Slow wound healing,Hair loss,Impaired taste
+56,Female,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+54,Male,Selenium,Mental fog,Fatigue,Mental fog
+34,Male,Iodine,Cold sensitivity,Neck swelling,Weight gain
+30,Female,Vitamin D,Bone pain,Depression,Depression
+24,Female,Vitamin A,Frequent infections,Dry skin,Frequent infections
+66,Female,Sodium,Seizures,Headache,Low blood pressure
+52,Female,Manganese,Mood changes,Poor bone growth,Poor bone growth
+13,Male,Zinc,Impaired taste,Hair loss,Stunted growth
+65,Female,Iron,Shortness of breath,Fatigue,Chest pain
+36,Female,Iodine,Neck swelling,Cold sensitivity,Cold sensitivity
+53,Female,Chromium,Fatigue,Poor glucose control,Poor glucose control
+28,Male,Magnesium,Mental disorders,Osteoporosis,Muscle twitches
+56,Male,Iodine,Neck swelling,Cold sensitivity,Weight gain
+33,Male,Vitamin E,Vision problems,Numbness,Numbness
+35,Male,Zinc,Hair loss,Slow wound healing,Slow wound healing
+67,Female,Copper,Bone abnormalities,Low body temperature,Low body temperature
+69,Male,Iodine,Weight gain,Cold sensitivity,Thyroid dysfunction
+51,Male,Vitamin B12,Fatigue,Tingling in hands,Tingling in hands
+63,Male,Iron,Fatigue,Shortness of breath,Chest pain
+58,Male,Iodine,Weight gain,Cold sensitivity,Weight gain
+39,Female,Vitamin A,Dry skin,Frequent infections,Frequent infections
+10,Male,Folate (B9),Headache,Irritability,Growth problems
+47,Female,Vitamin D,Muscle weakness,Bone pain,Bone pain
+66,Male,Folate (B9),Irritability,Headache,Irritability
+73,Male,Potassium,Heart palpitations,Fatigue,Fatigue
+75,Female,Sodium,Confusion,Seizures,Low blood pressure
+42,Male,Magnesium,Mental disorders,Muscle twitches,Mental disorders
+49,Male,Calcium,Numbness,Muscle cramps,Tooth decay
+69,Male,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+31,Female,Chromium,Fatigue,Poor glucose control,Poor glucose control
+30,Female,Phosphorus,Weak muscles,Bone pain,Bone pain
+57,Male,Folate (B9),Fatigue,Headache,Irritability
+14,Male,Manganese,Skin issues,Poor bone growth,Poor bone growth
+26,Male,Magnesium,Mental disorders,Muscle twitches,Mental disorders
+11,Female,Vitamin C,Weak immunity,Bleeding gums,Tooth loss
+65,Female,Vitamin A,Dry skin,Night blindness,Thinning hair
+12,Male,Zinc,Hair loss,Impaired taste,Stunted growth
+75,Male,Selenium,Hair loss,Mental fog,Weak immunity
+34,Male,Selenium,Fatigue,Mental fog,Mental fog
+47,Female,Iodine,Neck swelling,Weight gain,Cold sensitivity
+38,Male,Vitamin A,Night blindness,Dry skin,Night blindness
+36,Male,Vitamin E,Numbness,Muscle weakness,Numbness
+61,Male,Vitamin B12,Memory issues,Fatigue,Balance problems
+50,Female,Folate (B9),Irritability,Headache,Birth defects (during pregnancy)
+38,Male,Vitamin E,Vision problems,Numbness,Muscle weakness
+10,Male,Potassium,Fatigue,Heart palpitations,Fatigue
+36,Male,Copper,Low body temperature,Bone abnormalities,Bone abnormalities
+52,Female,Sodium,Seizures,Confusion,Seizures
+37,Female,Phosphorus,Bone pain,Weak muscles,Weak muscles
+51,Female,Calcium,Numbness,Tooth decay,Muscle cramps
+33,Male,Selenium,Mental fog,Hair loss,Hair loss
+50,Female,Vitamin A,Frequent infections,Dry skin,Night blindness
+44,Female,Iron,Pale skin,Fatigue,Heavy menstruation
+51,Female,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+11,Male,Iron,Pale skin,Fatigue,Poor appetite
+40,Male,Calcium,Tooth decay,Numbness,Muscle cramps
+14,Male,Vitamin A,Night blindness,Dry skin,Delayed growth
+33,Male,Manganese,Poor bone growth,Skin issues,Skin issues
+73,Male,Vitamin A,Frequent infections,Dry skin,Thinning hair
+56,Male,Copper,Low body temperature,Anemia,Anemia
+37,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+30,Female,Vitamin K,Excessive bleeding,Blood clot issues,Easy bruising
+57,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+39,Male,Potassium,Muscle weakness,Heart palpitations,Muscle weakness
+50,Female,Vitamin D,Muscle weakness,Depression,Muscle weakness
+61,Male,Iron,Fatigue,Shortness of breath,Chest pain
+38,Female,Calcium,Tooth decay,Numbness,Numbness
+36,Female,Manganese,Skin issues,Mood changes,Mood changes
+41,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+68,Female,Vitamin C,Bleeding gums,Slow wound healing,Joint pain
+34,Male,Iodine,Neck swelling,Weight gain,Weight gain
+61,Male,Calcium,Muscle cramps,Numbness,Osteoporosis
+65,Male,Zinc,Slow wound healing,Impaired taste,Weak immunity
+55,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+45,Female,Folate (B9),Irritability,Fatigue,Birth defects (during pregnancy)
+39,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+53,Male,Iodine,Cold sensitivity,Neck swelling,Neck swelling
+30,Female,Vitamin B12,Tingling in hands,Fatigue,Mood swings
+75,Male,Copper,Bone abnormalities,Low body temperature,Anemia
+29,Male,Manganese,Mood changes,Skin issues,Poor bone growth
+61,Female,Vitamin E,Muscle weakness,Numbness,Coordination issues
+57,Male,Copper,Anemia,Bone abnormalities,Anemia
+72,Female,Manganese,Poor bone growth,Skin issues,Skin issues
+72,Male,Vitamin D,Depression,Muscle weakness,Frequent fractures
+75,Male,Iodine,Cold sensitivity,Weight gain,Thyroid dysfunction
+18,Male,Vitamin D,Bone pain,Depression,Muscle weakness
+23,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+66,Male,Chromium,Poor glucose control,Weight loss,Mood swings
+22,Female,Manganese,Skin issues,Mood changes,Skin issues
+33,Female,Vitamin K,Easy bruising,Blood clot issues,Blood clot issues
+45,Female,Phosphorus,Weak muscles,Fatigue,Weak muscles
+13,Female,Manganese,Mood changes,Skin issues,Mood changes
+72,Male,Sodium,Confusion,Headache,Low blood pressure
+60,Female,Calcium,Tooth decay,Muscle cramps,Osteoporosis
+30,Female,Iodine,Cold sensitivity,Weight gain,Neck swelling
+50,Male,Calcium,Tooth decay,Numbness,Tooth decay
+29,Female,Copper,Anemia,Bone abnormalities,Anemia
+44,Male,Selenium,Fatigue,Mental fog,Fatigue
+32,Male,Phosphorus,Weak muscles,Bone pain,Bone pain
+39,Female,Vitamin K,Blood clot issues,Easy bruising,Blood clot issues
+38,Female,Calcium,Tooth decay,Numbness,Muscle cramps
+47,Female,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+18,Female,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+41,Male,Vitamin C,Bleeding gums,Slow wound healing,Slow wound healing
+43,Female,Selenium,Mental fog,Hair loss,Hair loss
+49,Female,Selenium,Mental fog,Fatigue,Fatigue
+49,Female,Manganese,Mood changes,Skin issues,Poor bone growth
+16,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+61,Male,Manganese,Mood changes,Poor bone growth,Mood changes
+57,Male,Potassium,Fatigue,Muscle weakness,Fatigue
+24,Female,Zinc,Slow wound healing,Hair loss,Hair loss
+36,Female,Vitamin C,Bleeding gums,Slow wound healing,Slow wound healing
+27,Male,Iron,Fatigue,Shortness of breath,Fatigue
+71,Male,Vitamin A,Dry skin,Frequent infections,Thinning hair
+39,Female,Vitamin D,Bone pain,Muscle weakness,Muscle weakness
+29,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+75,Male,Zinc,Hair loss,Impaired taste,Weak immunity
+61,Male,Chromium,Weight loss,Poor glucose control,Mood swings
+64,Female,Phosphorus,Fatigue,Weak muscles,Weak muscles
+13,Female,Phosphorus,Weak muscles,Bone pain,Fatigue
+18,Male,Zinc,Impaired taste,Hair loss,Slow wound healing
+61,Male,Iodine,Neck swelling,Cold sensitivity,Thyroid dysfunction
+49,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+51,Male,Iron,Shortness of breath,Fatigue,Shortness of breath
+50,Female,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+25,Female,Copper,Low body temperature,Anemia,Bone abnormalities
+50,Female,Sodium,Seizures,Confusion,Seizures
+37,Female,Zinc,Impaired taste,Slow wound healing,Impaired taste
+48,Female,Vitamin K,Easy bruising,Excessive bleeding,Easy bruising
+71,Female,Chromium,Poor glucose control,Weight loss,Mood swings
+13,Male,Vitamin K,Excessive bleeding,Blood clot issues,Nosebleeds
+18,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+24,Female,Manganese,Mood changes,Poor bone growth,Mood changes
+54,Male,Copper,Bone abnormalities,Low body temperature,Low body temperature
+28,Female,Vitamin A,Dry skin,Frequent infections,Dry skin
+58,Female,Vitamin C,Bleeding gums,Weak immunity,Bleeding gums
+13,Male,Copper,Bone abnormalities,Anemia,Growth delay
+49,Female,Potassium,Muscle weakness,Fatigue,Heart palpitations
+58,Female,Sodium,Confusion,Headache,Headache
+53,Male,Vitamin C,Weak immunity,Bleeding gums,Slow wound healing
+65,Male,Chromium,Fatigue,Weight loss,Mood swings
+17,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+10,Female,Magnesium,Mental disorders,Osteoporosis,Irregular heartbeat
+56,Male,Calcium,Muscle cramps,Tooth decay,Muscle cramps
+33,Male,Calcium,Numbness,Tooth decay,Muscle cramps
+44,Male,Vitamin D,Bone pain,Muscle weakness,Bone pain
+63,Male,Magnesium,Muscle twitches,Osteoporosis,High blood pressure
+26,Female,Zinc,Hair loss,Impaired taste,Hair loss
+50,Male,Manganese,Poor bone growth,Skin issues,Mood changes
+34,Male,Potassium,Fatigue,Muscle weakness,Heart palpitations
+46,Male,Vitamin B12,Tingling in hands,Fatigue,Fatigue
+63,Female,Vitamin C,Weak immunity,Bleeding gums,Joint pain
+63,Female,Chromium,Poor glucose control,Fatigue,Mood swings
+23,Male,Vitamin D,Bone pain,Depression,Depression
+21,Male,Calcium,Numbness,Muscle cramps,Muscle cramps
+42,Male,Magnesium,Mental disorders,Muscle twitches,Osteoporosis
+20,Female,Chromium,Fatigue,Weight loss,Fatigue
+51,Male,Folate (B9),Fatigue,Headache,Headache
+15,Male,Copper,Bone abnormalities,Anemia,Growth delay
+46,Male,Vitamin C,Weak immunity,Bleeding gums,Slow wound healing
+20,Male,Magnesium,Muscle twitches,Mental disorders,Osteoporosis
+55,Male,Vitamin K,Excessive bleeding,Easy bruising,Excessive bleeding
+17,Male,Sodium,Confusion,Headache,Seizures
+29,Male,Phosphorus,Fatigue,Weak muscles,Weak muscles
+34,Male,Selenium,Fatigue,Hair loss,Mental fog
+16,Male,Copper,Anemia,Low body temperature,Growth delay
+10,Female,Phosphorus,Bone pain,Fatigue,Weak muscles
+57,Male,Vitamin D,Muscle weakness,Depression,Muscle weakness
+23,Male,Vitamin B12,Tingling in hands,Fatigue,Fatigue
+61,Female,Vitamin A,Dry skin,Night blindness,Thinning hair
+68,Male,Folate (B9),Irritability,Headache,Fatigue
+57,Female,Manganese,Mood changes,Poor bone growth,Mood changes
+33,Male,Folate (B9),Fatigue,Irritability,Irritability
+25,Male,Folate (B9),Headache,Irritability,Irritability
+22,Male,Iron,Fatigue,Pale skin,Pale skin
+56,Female,Vitamin A,Night blindness,Dry skin,Frequent infections
+27,Male,Chromium,Poor glucose control,Weight loss,Weight loss
+13,Male,Calcium,Numbness,Muscle cramps,Poor bone growth
+73,Female,Selenium,Fatigue,Hair loss,Weak immunity
+16,Male,Selenium,Fatigue,Mental fog,Hair loss
+22,Male,Potassium,Muscle weakness,Heart palpitations,Muscle weakness
+66,Female,Phosphorus,Fatigue,Weak muscles,Bone pain
+40,Male,Vitamin D,Depression,Muscle weakness,Depression
+11,Male,Magnesium,Mental disorders,Osteoporosis,Osteoporosis
+52,Male,Iron,Fatigue,Pale skin,Shortness of breath
+61,Male,Chromium,Weight loss,Fatigue,Mood swings
+68,Female,Vitamin B12,Memory issues,Fatigue,Balance problems
+11,Male,Copper,Bone abnormalities,Anemia,Growth delay
+42,Male,Phosphorus,Weak muscles,Fatigue,Weak muscles
+71,Male,Selenium,Mental fog,Hair loss,Weak immunity
+62,Male,Sodium,Confusion,Headache,Low blood pressure
+64,Male,Vitamin D,Bone pain,Depression,Frequent fractures
+27,Female,Vitamin E,Numbness,Vision problems,Vision problems
+34,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+28,Male,Sodium,Confusion,Seizures,Headache
+74,Female,Iodine,Weight gain,Neck swelling,Thyroid dysfunction
+52,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+33,Male,Chromium,Fatigue,Poor glucose control,Poor glucose control
+48,Female,Vitamin C,Slow wound healing,Bleeding gums,Bleeding gums
+64,Female,Potassium,Fatigue,Heart palpitations,Heart palpitations
+36,Male,Vitamin C,Bleeding gums,Slow wound healing,Weak immunity
+15,Male,Vitamin E,Vision problems,Muscle weakness,Numbness
+56,Female,Zinc,Impaired taste,Slow wound healing,Impaired taste
+72,Female,Chromium,Fatigue,Poor glucose control,Mood swings
+49,Male,Vitamin A,Night blindness,Frequent infections,Night blindness
+36,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+28,Female,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+37,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+21,Male,Sodium,Seizures,Headache,Seizures
+30,Female,Vitamin C,Slow wound healing,Bleeding gums,Slow wound healing
+75,Female,Calcium,Numbness,Tooth decay,Osteoporosis
+30,Male,Vitamin E,Muscle weakness,Numbness,Numbness
+49,Male,Iron,Fatigue,Shortness of breath,Pale skin
+64,Female,Vitamin K,Excessive bleeding,Easy bruising,Excessive bleeding
+67,Male,Zinc,Impaired taste,Hair loss,Weak immunity
+40,Male,Zinc,Impaired taste,Hair loss,Hair loss
+69,Female,Vitamin D,Muscle weakness,Depression,Frequent fractures
+63,Male,Vitamin E,Vision problems,Muscle weakness,Coordination issues
+71,Male,Folate (B9),Irritability,Headache,Headache
+43,Female,Copper,Anemia,Bone abnormalities,Bone abnormalities
+35,Male,Chromium,Fatigue,Poor glucose control,Fatigue
+70,Female,Vitamin C,Weak immunity,Slow wound healing,Joint pain
+23,Female,Selenium,Hair loss,Fatigue,Hair loss
+48,Female,Vitamin C,Weak immunity,Bleeding gums,Bleeding gums
+13,Female,Zinc,Hair loss,Impaired taste,Stunted growth
+41,Female,Sodium,Confusion,Seizures,Headache
+37,Female,Phosphorus,Weak muscles,Fatigue,Weak muscles
+69,Male,Vitamin D,Bone pain,Muscle weakness,Frequent fractures
+37,Female,Iron,Fatigue,Pale skin,Heavy menstruation
+58,Male,Calcium,Muscle cramps,Numbness,Muscle cramps
+34,Female,Zinc,Hair loss,Slow wound healing,Impaired taste
+68,Male,Calcium,Numbness,Tooth decay,Osteoporosis
+11,Female,Vitamin K,Excessive bleeding,Easy bruising,Nosebleeds
+55,Male,Chromium,Poor glucose control,Weight loss,Weight loss
+34,Female,Manganese,Mood changes,Skin issues,Skin issues
+34,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+74,Male,Copper,Low body temperature,Anemia,Anemia
+22,Male,Vitamin D,Depression,Bone pain,Bone pain
+48,Male,Vitamin B12,Tingling in hands,Fatigue,Tingling in hands
+70,Male,Manganese,Poor bone growth,Mood changes,Poor bone growth
+48,Female,Vitamin K,Excessive bleeding,Blood clot issues,Excessive bleeding
+20,Female,Vitamin D,Muscle weakness,Bone pain,Muscle weakness
+56,Male,Potassium,Muscle weakness,Heart palpitations,Muscle weakness
+56,Female,Chromium,Fatigue,Poor glucose control,Weight loss
+13,Male,Iodine,Weight gain,Neck swelling,Mental retardation
+31,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+68,Male,Phosphorus,Weak muscles,Bone pain,Fatigue
+26,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+46,Female,Vitamin E,Numbness,Muscle weakness,Vision problems
+69,Male,Calcium,Numbness,Tooth decay,Osteoporosis
+49,Male,Vitamin A,Frequent infections,Night blindness,Dry skin
+67,Male,Folate (B9),Irritability,Headache,Fatigue
+26,Male,Copper,Low body temperature,Anemia,Low body temperature
+62,Male,Calcium,Numbness,Tooth decay,Osteoporosis
+72,Female,Selenium,Fatigue,Hair loss,Weak immunity
+23,Male,Sodium,Confusion,Seizures,Seizures
+72,Male,Iron,Fatigue,Pale skin,Chest pain
+18,Female,Selenium,Hair loss,Mental fog,Mental fog
+22,Female,Vitamin E,Muscle weakness,Numbness,Muscle weakness
+32,Male,Chromium,Fatigue,Poor glucose control,Poor glucose control
+63,Female,Calcium,Tooth decay,Muscle cramps,Osteoporosis
+51,Female,Potassium,Fatigue,Heart palpitations,Fatigue
+72,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+42,Female,Iron,Fatigue,Pale skin,Heavy menstruation
+70,Female,Phosphorus,Weak muscles,Fatigue,Bone pain
+20,Male,Chromium,Fatigue,Poor glucose control,Fatigue
+72,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+20,Female,Magnesium,Osteoporosis,Mental disorders,Irregular heartbeat
+74,Male,Vitamin K,Excessive bleeding,Blood clot issues,Blood clot issues
+50,Male,Iron,Fatigue,Shortness of breath,Shortness of breath
+21,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+46,Male,Iodine,Weight gain,Neck swelling,Cold sensitivity
+70,Male,Vitamin B12,Memory issues,Fatigue,Balance problems
+73,Female,Selenium,Hair loss,Mental fog,Weak immunity
+22,Male,Selenium,Fatigue,Hair loss,Fatigue
+74,Female,Calcium,Numbness,Tooth decay,Osteoporosis
+43,Female,Calcium,Numbness,Muscle cramps,Muscle cramps
+22,Female,Vitamin C,Bleeding gums,Slow wound healing,Bleeding gums
+11,Male,Zinc,Slow wound healing,Hair loss,Stunted growth
+22,Male,Vitamin C,Weak immunity,Slow wound healing,Bleeding gums
+38,Male,Vitamin B12,Tingling in hands,Memory issues,Fatigue
+20,Female,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+42,Female,Vitamin D,Bone pain,Muscle weakness,Muscle weakness
+35,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+47,Female,Manganese,Poor bone growth,Mood changes,Skin issues
+75,Female,Phosphorus,Weak muscles,Fatigue,Fatigue
+23,Female,Vitamin E,Vision problems,Numbness,Muscle weakness
+36,Female,Iodine,Neck swelling,Cold sensitivity,Weight gain
+25,Female,Calcium,Numbness,Tooth decay,Muscle cramps
+15,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+16,Male,Vitamin B12,Tingling in hands,Memory issues,Fatigue
+33,Male,Copper,Bone abnormalities,Anemia,Low body temperature
+51,Male,Zinc,Slow wound healing,Hair loss,Hair loss
+30,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+33,Female,Selenium,Hair loss,Mental fog,Mental fog
+72,Female,Vitamin A,Dry skin,Night blindness,Thinning hair
+29,Female,Vitamin C,Bleeding gums,Weak immunity,Bleeding gums
+24,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+71,Male,Vitamin C,Slow wound healing,Bleeding gums,Joint pain
+41,Male,Vitamin E,Vision problems,Muscle weakness,Muscle weakness
+36,Male,Chromium,Fatigue,Poor glucose control,Weight loss
+62,Female,Vitamin D,Depression,Bone pain,Frequent fractures
+46,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+66,Female,Vitamin K,Easy bruising,Blood clot issues,Easy bruising
+37,Male,Manganese,Mood changes,Poor bone growth,Poor bone growth
+17,Female,Sodium,Seizures,Confusion,Headache
+23,Female,Selenium,Hair loss,Mental fog,Mental fog
+49,Female,Folate (B9),Headache,Fatigue,Birth defects (during pregnancy)
+17,Male,Copper,Bone abnormalities,Anemia,Growth delay
+16,Female,Vitamin D,Depression,Muscle weakness,Delayed growth
+33,Female,Chromium,Fatigue,Poor glucose control,Poor glucose control
+28,Female,Sodium,Seizures,Headache,Confusion
+46,Female,Vitamin A,Frequent infections,Dry skin,Night blindness
+28,Male,Chromium,Poor glucose control,Fatigue,Fatigue
+19,Male,Vitamin B12,Memory issues,Fatigue,Memory issues
+53,Male,Iron,Pale skin,Fatigue,Pale skin
+39,Male,Phosphorus,Fatigue,Weak muscles,Bone pain
+40,Male,Manganese,Skin issues,Poor bone growth,Mood changes
+33,Female,Manganese,Mood changes,Skin issues,Poor bone growth
+52,Male,Manganese,Mood changes,Skin issues,Poor bone growth
+59,Female,Iron,Pale skin,Shortness of breath,Heavy menstruation
+67,Male,Sodium,Seizures,Headache,Low blood pressure
+35,Female,Selenium,Hair loss,Fatigue,Mental fog
+40,Male,Manganese,Skin issues,Mood changes,Skin issues
+61,Female,Iodine,Weight gain,Neck swelling,Thyroid dysfunction
+20,Female,Vitamin K,Blood clot issues,Excessive bleeding,Blood clot issues
+41,Male,Zinc,Slow wound healing,Hair loss,Slow wound healing
+58,Male,Iodine,Cold sensitivity,Weight gain,Cold sensitivity
+13,Male,Potassium,Heart palpitations,Muscle weakness,Heart palpitations
+66,Female,Vitamin B12,Memory issues,Fatigue,Balance problems
+11,Male,Vitamin B12,Fatigue,Memory issues,Fatigue
+59,Male,Vitamin D,Muscle weakness,Bone pain,Muscle weakness
+22,Female,Vitamin D,Bone pain,Depression,Bone pain
+71,Female,Calcium,Numbness,Tooth decay,Osteoporosis
+52,Male,Selenium,Mental fog,Fatigue,Fatigue
+34,Female,Vitamin B12,Memory issues,Tingling in hands,Mood swings
+26,Male,Potassium,Heart palpitations,Muscle weakness,Fatigue
+13,Female,Manganese,Poor bone growth,Skin issues,Poor bone growth
+42,Female,Vitamin C,Weak immunity,Bleeding gums,Bleeding gums
+44,Male,Phosphorus,Weak muscles,Bone pain,Fatigue
+53,Female,Vitamin D,Depression,Muscle weakness,Bone pain
+21,Female,Vitamin E,Vision problems,Numbness,Numbness
+37,Female,Phosphorus,Weak muscles,Bone pain,Weak muscles
+52,Female,Vitamin E,Muscle weakness,Numbness,Numbness
+19,Female,Potassium,Heart palpitations,Fatigue,Muscle weakness
+40,Male,Zinc,Hair loss,Impaired taste,Impaired taste
+39,Female,Manganese,Mood changes,Skin issues,Skin issues
+60,Female,Vitamin E,Muscle weakness,Vision problems,Coordination issues
+59,Female,Folate (B9),Headache,Irritability,Birth defects (during pregnancy)
+69,Female,Zinc,Slow wound healing,Impaired taste,Weak immunity
+58,Female,Selenium,Fatigue,Mental fog,Mental fog
+74,Male,Magnesium,Mental disorders,Osteoporosis,High blood pressure
+62,Male,Magnesium,Muscle twitches,Osteoporosis,High blood pressure
+38,Female,Vitamin A,Frequent infections,Dry skin,Night blindness
+63,Female,Copper,Low body temperature,Bone abnormalities,Anemia
+70,Male,Zinc,Impaired taste,Hair loss,Weak immunity
+60,Female,Vitamin D,Depression,Muscle weakness,Frequent fractures
+49,Male,Vitamin C,Slow wound healing,Weak immunity,Slow wound healing
+36,Male,Vitamin D,Muscle weakness,Depression,Depression
+23,Male,Vitamin D,Muscle weakness,Bone pain,Depression
+21,Male,Vitamin C,Bleeding gums,Weak immunity,Slow wound healing
+61,Female,Vitamin A,Frequent infections,Night blindness,Thinning hair
+16,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+23,Male,Calcium,Numbness,Muscle cramps,Numbness
+74,Female,Zinc,Impaired taste,Hair loss,Weak immunity
+50,Male,Vitamin B12,Fatigue,Tingling in hands,Memory issues
+27,Male,Calcium,Numbness,Tooth decay,Numbness
+55,Female,Phosphorus,Bone pain,Fatigue,Bone pain
+75,Male,Vitamin A,Night blindness,Frequent infections,Thinning hair
+42,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+17,Male,Vitamin C,Slow wound healing,Weak immunity,Tooth loss
+22,Male,Zinc,Slow wound healing,Impaired taste,Slow wound healing
+27,Male,Manganese,Skin issues,Poor bone growth,Skin issues
+57,Male,Vitamin A,Frequent infections,Night blindness,Dry skin
+73,Female,Selenium,Hair loss,Fatigue,Weak immunity
+46,Female,Manganese,Mood changes,Poor bone growth,Poor bone growth
+41,Male,Potassium,Fatigue,Heart palpitations,Muscle weakness
+40,Male,Iodine,Cold sensitivity,Weight gain,Weight gain
+75,Male,Potassium,Fatigue,Muscle weakness,Heart palpitations
+56,Male,Selenium,Fatigue,Hair loss,Hair loss
+27,Female,Iodine,Cold sensitivity,Neck swelling,Neck swelling
+21,Male,Sodium,Headache,Confusion,Headache
+33,Male,Iron,Fatigue,Shortness of breath,Shortness of breath
+73,Male,Vitamin B12,Fatigue,Tingling in hands,Balance problems
+51,Male,Calcium,Numbness,Tooth decay,Numbness
+29,Male,Chromium,Weight loss,Fatigue,Fatigue
+41,Female,Phosphorus,Fatigue,Weak muscles,Weak muscles
+70,Male,Vitamin D,Muscle weakness,Depression,Frequent fractures
+32,Male,Copper,Anemia,Bone abnormalities,Low body temperature
+75,Female,Phosphorus,Bone pain,Weak muscles,Weak muscles
+23,Male,Sodium,Seizures,Confusion,Confusion
+30,Male,Copper,Low body temperature,Bone abnormalities,Bone abnormalities
+20,Female,Magnesium,Osteoporosis,Mental disorders,Irregular heartbeat
+12,Female,Manganese,Mood changes,Poor bone growth,Poor bone growth
+14,Male,Manganese,Mood changes,Poor bone growth,Mood changes
+64,Male,Vitamin C,Slow wound healing,Weak immunity,Joint pain
+11,Male,Vitamin A,Frequent infections,Night blindness,Delayed growth
+64,Female,Copper,Bone abnormalities,Low body temperature,Anemia
+22,Female,Vitamin K,Blood clot issues,Easy bruising,Easy bruising
+38,Female,Chromium,Fatigue,Poor glucose control,Poor glucose control
+28,Female,Sodium,Seizures,Confusion,Headache
+38,Female,Iodine,Neck swelling,Weight gain,Cold sensitivity
+28,Female,Phosphorus,Fatigue,Bone pain,Weak muscles
+26,Female,Iodine,Weight gain,Cold sensitivity,Cold sensitivity
+41,Male,Iron,Shortness of breath,Fatigue,Shortness of breath
+69,Male,Iodine,Cold sensitivity,Neck swelling,Thyroid dysfunction
+50,Female,Zinc,Impaired taste,Slow wound healing,Hair loss
+65,Male,Zinc,Hair loss,Slow wound healing,Weak immunity
+37,Male,Iron,Fatigue,Shortness of breath,Pale skin
+70,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+15,Male,Vitamin B12,Memory issues,Fatigue,Fatigue
+47,Female,Iodine,Neck swelling,Weight gain,Neck swelling
+66,Female,Iodine,Cold sensitivity,Neck swelling,Thyroid dysfunction
+65,Male,Sodium,Confusion,Headache,Low blood pressure
+67,Female,Magnesium,Mental disorders,Osteoporosis,Irregular heartbeat
+66,Female,Vitamin B12,Tingling in hands,Memory issues,Mood swings
+74,Male,Selenium,Hair loss,Fatigue,Weak immunity
+57,Male,Vitamin K,Excessive bleeding,Blood clot issues,Easy bruising
+59,Male,Magnesium,Mental disorders,Osteoporosis,Mental disorders
+54,Female,Potassium,Fatigue,Muscle weakness,Heart palpitations
+21,Female,Vitamin C,Slow wound healing,Weak immunity,Weak immunity
+11,Male,Vitamin A,Frequent infections,Dry skin,Delayed growth
+73,Male,Vitamin B12,Tingling in hands,Fatigue,Balance problems
+59,Male,Iodine,Weight gain,Cold sensitivity,Cold sensitivity
+40,Female,Zinc,Impaired taste,Slow wound healing,Hair loss
+48,Male,Selenium,Fatigue,Mental fog,Fatigue
+73,Female,Zinc,Slow wound healing,Hair loss,Weak immunity
+26,Male,Zinc,Impaired taste,Hair loss,Impaired taste
+41,Female,Calcium,Muscle cramps,Tooth decay,Muscle cramps
+66,Female,Iodine,Weight gain,Neck swelling,Thyroid dysfunction
+37,Male,Iron,Fatigue,Shortness of breath,Shortness of breath
+28,Male,Folate (B9),Headache,Irritability,Fatigue
+36,Female,Vitamin C,Weak immunity,Bleeding gums,Slow wound healing
+74,Female,Zinc,Slow wound healing,Hair loss,Weak immunity
+75,Male,Calcium,Numbness,Muscle cramps,Osteoporosis
+69,Male,Manganese,Mood changes,Skin issues,Mood changes
+19,Male,Vitamin K,Easy bruising,Blood clot issues,Excessive bleeding
+31,Male,Iron,Fatigue,Pale skin,Pale skin
+13,Female,Vitamin E,Numbness,Vision problems,Vision problems
+18,Male,Zinc,Impaired taste,Hair loss,Impaired taste
+61,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+49,Male,Vitamin C,Weak immunity,Bleeding gums,Slow wound healing
+69,Male,Vitamin B12,Memory issues,Tingling in hands,Balance problems
+43,Male,Chromium,Weight loss,Fatigue,Weight loss
+74,Female,Manganese,Poor bone growth,Skin issues,Poor bone growth
+53,Male,Iodine,Cold sensitivity,Neck swelling,Neck swelling
+62,Male,Iodine,Neck swelling,Weight gain,Thyroid dysfunction
+21,Male,Copper,Low body temperature,Anemia,Bone abnormalities
+22,Male,Magnesium,Muscle twitches,Mental disorders,Osteoporosis
+16,Female,Vitamin D,Muscle weakness,Bone pain,Delayed growth
+16,Female,Calcium,Muscle cramps,Numbness,Poor bone growth
+11,Male,Chromium,Weight loss,Fatigue,Poor glucose control
+23,Female,Zinc,Impaired taste,Hair loss,Slow wound healing
+49,Female,Phosphorus,Fatigue,Bone pain,Bone pain
+30,Male,Magnesium,Mental disorders,Osteoporosis,Muscle twitches
+37,Male,Folate (B9),Irritability,Headache,Fatigue
+30,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+53,Male,Sodium,Headache,Seizures,Seizures
+65,Male,Vitamin A,Night blindness,Frequent infections,Thinning hair
+72,Male,Magnesium,Muscle twitches,Mental disorders,High blood pressure
+31,Female,Manganese,Poor bone growth,Mood changes,Skin issues
+17,Female,Vitamin E,Vision problems,Numbness,Vision problems
+64,Male,Vitamin E,Vision problems,Numbness,Coordination issues
+63,Female,Magnesium,Mental disorders,Muscle twitches,Irregular heartbeat
+37,Female,Vitamin D,Depression,Muscle weakness,Muscle weakness
+34,Male,Vitamin B12,Fatigue,Memory issues,Memory issues
+61,Female,Sodium,Headache,Seizures,Low blood pressure
+44,Female,Vitamin D,Muscle weakness,Depression,Depression
+36,Female,Vitamin A,Dry skin,Frequent infections,Night blindness
+50,Male,Calcium,Muscle cramps,Numbness,Numbness
+67,Female,Chromium,Fatigue,Weight loss,Mood swings
+75,Female,Zinc,Hair loss,Impaired taste,Weak immunity
+71,Female,Vitamin C,Weak immunity,Slow wound healing,Joint pain
+53,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+64,Male,Sodium,Confusion,Headache,Low blood pressure
+28,Female,Zinc,Slow wound healing,Hair loss,Hair loss
+66,Male,Vitamin D,Depression,Bone pain,Frequent fractures
+20,Male,Sodium,Seizures,Headache,Seizures
+26,Female,Phosphorus,Weak muscles,Bone pain,Weak muscles
+52,Female,Chromium,Weight loss,Poor glucose control,Poor glucose control
+58,Female,Vitamin C,Slow wound healing,Weak immunity,Weak immunity
+43,Female,Calcium,Numbness,Muscle cramps,Tooth decay
+13,Male,Folate (B9),Irritability,Fatigue,Growth problems
+23,Male,Vitamin B12,Tingling in hands,Memory issues,Memory issues
+36,Male,Vitamin A,Night blindness,Dry skin,Dry skin
+37,Male,Folate (B9),Headache,Irritability,Headache
+21,Female,Phosphorus,Weak muscles,Bone pain,Fatigue
+61,Male,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+58,Male,Vitamin D,Muscle weakness,Bone pain,Bone pain
+47,Female,Manganese,Mood changes,Skin issues,Poor bone growth
+10,Female,Vitamin D,Depression,Muscle weakness,Delayed growth
+55,Female,Copper,Anemia,Bone abnormalities,Bone abnormalities
+41,Female,Selenium,Fatigue,Hair loss,Hair loss
+67,Female,Zinc,Impaired taste,Slow wound healing,Weak immunity
+29,Male,Chromium,Poor glucose control,Weight loss,Poor glucose control
+66,Female,Chromium,Fatigue,Weight loss,Mood swings
+12,Female,Folate (B9),Fatigue,Irritability,Birth defects (during pregnancy)
+17,Female,Calcium,Tooth decay,Muscle cramps,Poor bone growth
+56,Female,Vitamin A,Frequent infections,Night blindness,Night blindness
+68,Female,Calcium,Numbness,Tooth decay,Osteoporosis
+24,Male,Folate (B9),Irritability,Fatigue,Headache
+45,Female,Selenium,Fatigue,Hair loss,Fatigue
+71,Male,Magnesium,Osteoporosis,Mental disorders,High blood pressure
+17,Male,Copper,Low body temperature,Anemia,Growth delay
+64,Female,Calcium,Muscle cramps,Numbness,Osteoporosis
+24,Female,Magnesium,Mental disorders,Osteoporosis,Irregular heartbeat
+71,Male,Copper,Anemia,Bone abnormalities,Low body temperature
+73,Female,Vitamin K,Easy bruising,Excessive bleeding,Blood clot issues
+50,Male,Phosphorus,Weak muscles,Fatigue,Weak muscles
+44,Male,Magnesium,Muscle twitches,Mental disorders,Mental disorders
+68,Female,Folate (B9),Headache,Irritability,Birth defects (during pregnancy)
+73,Female,Vitamin D,Depression,Bone pain,Frequent fractures
+48,Male,Selenium,Mental fog,Hair loss,Hair loss
+40,Male,Phosphorus,Weak muscles,Fatigue,Bone pain
+27,Male,Iodine,Cold sensitivity,Neck swelling,Cold sensitivity
+33,Male,Selenium,Fatigue,Hair loss,Mental fog
+75,Male,Calcium,Tooth decay,Muscle cramps,Osteoporosis
+72,Female,Manganese,Skin issues,Mood changes,Poor bone growth
+69,Male,Iodine,Cold sensitivity,Weight gain,Thyroid dysfunction
+37,Male,Vitamin D,Depression,Bone pain,Bone pain
+47,Female,Vitamin E,Muscle weakness,Numbness,Numbness
+60,Male,Selenium,Fatigue,Mental fog,Weak immunity
+11,Female,Vitamin C,Slow wound healing,Bleeding gums,Tooth loss
+61,Female,Selenium,Hair loss,Mental fog,Weak immunity
+46,Female,Manganese,Mood changes,Poor bone growth,Skin issues
+16,Female,Iodine,Weight gain,Neck swelling,Mental retardation
+40,Male,Chromium,Weight loss,Poor glucose control,Weight loss
+26,Male,Vitamin B12,Memory issues,Fatigue,Tingling in hands
+43,Female,Iron,Shortness of breath,Fatigue,Heavy menstruation
+55,Male,Copper,Low body temperature,Anemia,Low body temperature
+57,Female,Vitamin D,Bone pain,Depression,Bone pain
+58,Female,Iron,Pale skin,Fatigue,Heavy menstruation
+51,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+75,Male,Vitamin A,Dry skin,Frequent infections,Thinning hair
+32,Female,Vitamin D,Depression,Muscle weakness,Muscle weakness
+31,Male,Vitamin B12,Fatigue,Memory issues,Tingling in hands
+71,Female,Vitamin A,Dry skin,Frequent infections,Thinning hair
+33,Female,Vitamin D,Depression,Muscle weakness,Muscle weakness
+40,Male,Magnesium,Muscle twitches,Osteoporosis,Muscle twitches
+16,Male,Phosphorus,Bone pain,Weak muscles,Weak muscles
+68,Male,Phosphorus,Fatigue,Weak muscles,Fatigue
+45,Female,Potassium,Heart palpitations,Fatigue,Fatigue
+29,Male,Iodine,Cold sensitivity,Neck swelling,Cold sensitivity
+50,Male,Vitamin E,Muscle weakness,Vision problems,Vision problems
+36,Female,Potassium,Heart palpitations,Muscle weakness,Heart palpitations
+34,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+17,Male,Folate (B9),Irritability,Headache,Growth problems
+29,Male,Vitamin B12,Memory issues,Tingling in hands,Tingling in hands
+50,Male,Iodine,Weight gain,Neck swelling,Weight gain
+65,Female,Magnesium,Muscle twitches,Osteoporosis,High blood pressure
+27,Female,Copper,Bone abnormalities,Anemia,Bone abnormalities
+70,Female,Iodine,Cold sensitivity,Weight gain,Thyroid dysfunction
+72,Female,Calcium,Tooth decay,Numbness,Osteoporosis
+46,Female,Vitamin A,Frequent infections,Night blindness,Dry skin
+41,Male,Iodine,Neck swelling,Cold sensitivity,Neck swelling
+57,Male,Vitamin E,Vision problems,Muscle weakness,Vision problems
+74,Male,Iron,Pale skin,Shortness of breath,Chest pain
+59,Male,Phosphorus,Bone pain,Fatigue,Weak muscles
+15,Male,Selenium,Mental fog,Hair loss,Hair loss
+39,Male,Vitamin K,Easy bruising,Excessive bleeding,Excessive bleeding
+16,Female,Magnesium,Muscle twitches,Mental disorders,Irregular heartbeat
+75,Female,Magnesium,Mental disorders,Osteoporosis,High blood pressure
+59,Female,Vitamin A,Frequent infections,Night blindness,Night blindness
+40,Female,Selenium,Fatigue,Mental fog,Hair loss
+12,Male,Phosphorus,Weak muscles,Fatigue,Fatigue
+53,Female,Magnesium,Osteoporosis,Muscle twitches,Irregular heartbeat
+13,Female,Sodium,Headache,Confusion,Confusion
+27,Male,Folate (B9),Fatigue,Headache,Headache
+43,Male,Copper,Anemia,Low body temperature,Low body temperature
+21,Female,Vitamin A,Dry skin,Night blindness,Frequent infections
+17,Female,Calcium,Numbness,Tooth decay,Poor bone growth
+30,Male,Iron,Fatigue,Shortness of breath,Shortness of breath
+16,Female,Magnesium,Muscle twitches,Osteoporosis,Irregular heartbeat
+17,Female,Vitamin E,Numbness,Muscle weakness,Numbness
+40,Male,Sodium,Headache,Confusion,Headache
+74,Male,Magnesium,Mental disorders,Osteoporosis,High blood pressure
+22,Male,Chromium,Fatigue,Poor glucose control,Fatigue
+67,Female,Vitamin B12,Fatigue,Memory issues,Mood swings
+38,Male,Folate (B9),Headache,Fatigue,Fatigue
+47,Male,Calcium,Numbness,Muscle cramps,Tooth decay
+62,Female,Potassium,Heart palpitations,Muscle weakness,Fatigue
+71,Female,Copper,Anemia,Low body temperature,Low body temperature
+21,Male,Copper,Bone abnormalities,Low body temperature,Anemia
+22,Male,Iron,Pale skin,Fatigue,Fatigue
+57,Female,Selenium,Hair loss,Mental fog,Hair loss
+30,Female,Vitamin K,Blood clot issues,Easy bruising,Excessive bleeding
+65,Female,Vitamin A,Dry skin,Frequent infections,Thinning hair
+34,Male,Vitamin A,Dry skin,Night blindness,Dry skin
+74,Female,Calcium,Numbness,Muscle cramps,Osteoporosis
+25,Male,Vitamin C,Weak immunity,Bleeding gums,Weak immunity
+35,Male,Vitamin D,Muscle weakness,Depression,Bone pain
+73,Male,Iron,Fatigue,Pale skin,Chest pain
+22,Male,Vitamin E,Vision problems,Muscle weakness,Numbness
+71,Male,Calcium,Numbness,Muscle cramps,Osteoporosis
+40,Female,Vitamin E,Numbness,Muscle weakness,Numbness
+34,Male,Potassium,Heart palpitations,Fatigue,Heart palpitations
+60,Male,Vitamin D,Bone pain,Depression,Frequent fractures
+16,Female,Vitamin K,Easy bruising,Blood clot issues,Nosebleeds
+19,Male,Phosphorus,Fatigue,Bone pain,Fatigue
+73,Female,Copper,Low body temperature,Bone abnormalities,Low body temperature
+44,Female,Zinc,Impaired taste,Hair loss,Impaired taste
+67,Male,Folate (B9),Fatigue,Headache,Irritability
+56,Male,Vitamin A,Night blindness,Dry skin,Dry skin
+68,Female,Vitamin B12,Fatigue,Tingling in hands,Balance problems
+32,Female,Vitamin E,Numbness,Muscle weakness,Numbness
+31,Female,Potassium,Fatigue,Muscle weakness,Heart palpitations
+25,Female,Potassium,Heart palpitations,Muscle weakness,Fatigue
+59,Male,Magnesium,Osteoporosis,Muscle twitches,Muscle twitches
+39,Female,Calcium,Tooth decay,Numbness,Numbness
+34,Male,Folate (B9),Irritability,Headache,Headache
+22,Female,Vitamin B12,Fatigue,Tingling in hands,Mood swings
+42,Female,Sodium,Headache,Seizures,Headache
+63,Male,Folate (B9),Fatigue,Irritability,Fatigue
+44,Female,Vitamin K,Easy bruising,Blood clot issues,Easy bruising
+54,Female,Vitamin A,Night blindness,Dry skin,Dry skin
+68,Male,Vitamin C,Weak immunity,Bleeding gums,Joint pain
+15,Female,Vitamin E,Muscle weakness,Vision problems,Muscle weakness
+66,Male,Copper,Anemia,Bone abnormalities,Low body temperature
+18,Female,Potassium,Fatigue,Muscle weakness,Heart palpitations
+39,Female,Iron,Shortness of breath,Pale skin,Heavy menstruation
+49,Female,Iodine,Neck swelling,Weight gain,Weight gain
+57,Male,Manganese,Skin issues,Poor bone growth,Mood changes
+15,Male,Vitamin C,Slow wound healing,Weak immunity,Tooth loss
+16,Male,Vitamin D,Bone pain,Depression,Delayed growth
+46,Male,Vitamin A,Night blindness,Frequent infections,Frequent infections
+72,Female,Magnesium,Mental disorders,Muscle twitches,High blood pressure
+68,Male,Phosphorus,Weak muscles,Bone pain,Weak muscles
+31,Male,Vitamin B12,Fatigue,Tingling in hands,Memory issues
+26,Male,Manganese,Skin issues,Mood changes,Poor bone growth
+73,Male,Vitamin A,Dry skin,Night blindness,Thinning hair
+26,Male,Potassium,Fatigue,Heart palpitations,Heart palpitations
+72,Male,Vitamin E,Numbness,Muscle weakness,Coordination issues
+27,Male,Iodine,Cold sensitivity,Weight gain,Weight gain
+21,Female,Vitamin C,Bleeding gums,Slow wound healing,Weak immunity
+43,Male,Chromium,Weight loss,Poor glucose control,Fatigue
+57,Female,Iodine,Weight gain,Neck swelling,Neck swelling
+66,Female,Vitamin A,Frequent infections,Dry skin,Thinning hair
+47,Male,Vitamin K,Blood clot issues,Excessive bleeding,Blood clot issues
+61,Male,Sodium,Confusion,Headache,Low blood pressure
